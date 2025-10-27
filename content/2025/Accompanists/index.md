@@ -1,10 +1,10 @@
 ---
 title: "Accompanists"
-description: "Uma Arun (violin), M. Sridhar (vocals) and G. Swaminathan (Mridangam) comprised the orchestra at Saadhana 2025"
+description: "Uma Arun (violin), M. Sridhar (vocals) and G. Swaminathan (Mridangam) comprised the orchestra at Saadhana 2025, and were joined by Shreyasi Gopinath on Nattuvangam."
 weight: 6
 date: 2025-05-22
 draft: false
-summary: "Saadhana 2025: Accompanists"
+summary: "Uma Arun (violin), M. Sridhar (vocals) and G. Swaminathan (Mridangam) comprised the orchestra at Saadhana 2025, and were joined by Shreyasi Gopinath on Nattuvangam."
 invertPagination: true
 showHero: true
 heroStyle: background
