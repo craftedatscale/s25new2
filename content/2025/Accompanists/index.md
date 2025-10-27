@@ -1,5 +1,6 @@
 ---
 title: "Accompanists"
+description: "Uma Arun (violin), M. Sridhar (vocals) and G. Swaminathan (Mridangam) comprised the orchestra at Saadhana 2025"
 weight: 6
 date: 2025-05-22
 draft: false
