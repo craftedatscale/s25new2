@@ -10,8 +10,8 @@ heroStyle: background
 layoutBackgroundHeaderSpace: true
 layoutBackgroundBlur: false
 type: 'guest_artists'
-description: "Saadhana 2025 featured a Chhau piece, titled 'Yodha', presented by Sudhir Kumar and Himesh Parcha, disciple of Shri Santosh Nair."
-summary: "Saadhana 2025 featured a Chhau piece, titled 'Yodha', presented by Sudhir Kumar and Himesh Parcha, disciple of Shri Santosh Nair."
+description: "Saadhana 2025 featured a Chhau piece, titled 'Yodha', presented by Sudhir Kumar and Himesh Parcha, disciples of Shri Santosh Nair."
+summary: "Saadhana 2025 featured a Chhau piece, titled 'Yodha', presented by Sudhir Kumar and Himesh Parcha, disciples of Shri Santosh Nair."
 
 ---
 **Saadhana 2025** continued our tradition of inviting young artists from a senior Guru's school, to present a different art form and showcase their talen. Such an experience enriches the audience's immersion in dance, and expands the horizons for parents and family too.
