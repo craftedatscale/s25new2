@@ -1,6 +1,6 @@
 ---
 title: ""
-description: ""
+description: "Saadhana 2025, held on 17th May 2025 at New Delhi's India International Centre, was the fourth edition of the annual dance festival of students of the Shreyasi Gopinath Dance Academy"
 showHero: true
 heroStyle: background
 layoutBackgroundHeaderSpace: true
