@@ -1,0 +1,130 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "🏠"
+  url = "/#2025"
+  weight = 1
+
+[[main]]
+  name = "Festival"
+  url = "/2025/festival"
+  weight = 2
+
+[[main]]
+  name = "2025"
+  parent = "Festival"
+  url = "/2025/festival"
+  weight = 1
+
+[[main]]
+  name = "2024"
+  parent = "Festival"
+  url = "https://saadhana2024.sgda.in"
+  weight = 2
+
+[[main]]
+  name = "Sponsors"
+  url = "/2025/sponsors"
+  weight = 3
+
+[[main]]
+  name = "Performances"
+  url = "/2025/Performances/"
+  weight = 4
+  
+  
+
+[[main]]
+  name = "Our Students"
+  parent = "Performances"
+  url = "/2025/Our_Students/"
+  weight = 1
+
+[[main]]
+  name = "Guest Artists"
+  parent = "Performances"
+  url = "/2025/Guest_Artists"
+  weight = 2
+
+[[main]]
+  name = "Accompanists"
+  parent = "Performances"
+  url = "/2025/Accompanists"
+  weight = 3
+
+[[main]]
+  name = "Founder"
+  url = "/2025/Founder"
+  weight = 5
+
+[[main]]
+  name = "Academy"
+  parent = "Founder"
+  weight = 1
+  url = "/2025/Academy"
+  
+[[main]]
+  name = "Team"
+  parent = "Founder"
+  weight = 2
+  url = "/2025/Team"
+
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  weight = 6
+  url = "https://instagram.com/the_dance_atelier"
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+#[[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
+#[[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
+
+[[footer]]
+  identifier = "globe"
+  pre = "globe"
+  name = "ShreyasiGopinath.com"
+  weight = 1
+  url = "https://shreyasigopinath.com"
+
+[[footer]]
+  identifier = "instagram"
+  pre = "instagram"
+  name = "The_Dance_Atelier"
+  weight = 3
+  url = "https://instagram.com/the_dance_atelier"
+
+#[[footer]]
+#  identifier = "email"
+#  pre = "email"
+#  name = "Email"
+#  weight = 4
+#  url = "mailto:gopinathshreyasi@yahoo.co.in"
+
+[[footer]]
+  identifier = "whatsapp"
+  pre = "whatsapp"
+  name = "+91 9818689428"
+  weight = 5
+  url = "https://api.whatsapp.com/send?phone=919818689428"
+
