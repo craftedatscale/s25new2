@@ -9,6 +9,8 @@ showHero: true
 heroStyle: background
 layoutBackgroundHeaderSpace: true
 layoutBackgroundBlur: false
+description: "The 2025 edition of Saadhana, the signature annual event of the Shreyasi Gopinath Dance Academy, was held at India International Centre in New Delhi on 17th May 2025. It featured numerous performances by SGDA students, and two special presentations of Kathak and Chhau, by students of senior Gurus."
+summary: "The 2025 edition of Saadhana, the signature annual event of the Shreyasi Gopinath Dance Academy, was held at India International Centre in New Delhi on 17th May 2025. It featured numerous performances by SGDA students, and two special presentations of Kathak and Chhau, by students of senior Gurus. The festival received support from NTPC, IndianOil, Accessorize with Ruhnaal and the Kunwar Viyogi Memorial Trust."
 
 ---
 

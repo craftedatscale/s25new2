@@ -3,7 +3,8 @@ title: "Swagatam Krishna"
 date: 2025-05-22
 weight: 61
 type: "groups_and_solos"
-description: ""
+description: "The Swagatam Krishna performance at Saadhana 2025, depicting a devotee imploring Krishna, was presented by Amaira, Anandita, Ishika, Jaysha, Mananya, Noor, Saanvi, Shoumili and Sirisha, students of the Shreyasi Gopinath Dance Academy."
+summary: "The Swagatam Krishna performance at Saadhana 2025, depicting a devotee imploring Krishna, was presented by Amaira, Anandita, Ishika, Jaysha, Mananya, Noor, Saanvi, Shoumili and Sirisha, students of the Shreyasi Gopinath Dance Academy."
 ---
 **Saadhana 2025**'s performance concluded with a presentation of **Swagatam Krishna**, where the devotee is saying _O Krishna, please come, let me touch your feet._
 

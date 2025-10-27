@@ -10,6 +10,8 @@ heroStyle: background
 layoutBackgroundHeaderSpace: true
 layoutBackgroundBlur: false
 type: 'guest_artists'
+description: "Saadhana 2025 featured two Kathak pieces, Shri Shankara Mahadeva and on Lord Krishna, presented by Nandini Khattar, disciple of Nrityashri Alaknanda."
+summary: "Saadhana 2025 featured two Kathak pieces, Shri Shankara Mahadeva and on Lord Krishna, presented by Nandini Khattar, disciple of Nrityashri Alaknanda."
 ---
 
 **Saadhana 2025** continued our tradition of inviting young artists from a senior Guru’s school, to present a different art form and showcase their talen. Such an experience enriches the audience’s immersion in dance, and expands the horizons for parents and family too.

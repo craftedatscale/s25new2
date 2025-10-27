@@ -3,7 +3,8 @@ title: "Sponsors"
 weight: 2
 date: 2025-05-22
 draft: false
-summary: "Saadhana 2025's esteemed sponsors"
+summary: "Saadhana 2025's esteemed sponsors were NTPC, IndianOil, Accessorize by Ruhnaal and the Kunwar Viyogi Memorial Trust."
+description: "Saadhana 2025's esteemed sponsors were NTPC, IndianOil, Accessorize by Ruhnaal and the Kunwar Viyogi Memorial Trust."
 invertPagination: true
 showHero: true
 heroStyle: background

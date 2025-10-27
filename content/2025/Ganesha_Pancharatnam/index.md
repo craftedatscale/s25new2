@@ -3,7 +3,8 @@ title: "Ganesha Pancharatnam"
 date: 2025-05-22
 weight: 55
 type: "groups_and_solos"
-description: "Learn about some of my projects."
+description: "The Ganesha Pancharatnam performance at Saadhana 2025, depicting the legend of Lord Ganesha, was presented by Aashvi, Adhyanshi, Anoosha, Anvira, Arnika, Inaya, Rabaani, Saanvi and Veda, students of the Shreyasi Gopinath Dance Academy."
+summary: "The Ganesha Pancharatnam performance at Saadhana 2025, depicting the legend of Lord Ganesha, was presented by Aashvi, Adhyanshi, Anoosha, Anvira, Arnika, Inaya, Rabaani, Saanvi and Veda, students of the Shreyasi Gopinath Dance Academy."
 ---
 **Saadhana 2025**'s fifth performance was **Ganesh Pancharatna**.<br />
 

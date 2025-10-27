@@ -3,7 +3,8 @@ title: "Nottuswaram"
 date: 2025-05-22
 weight: 51
 type: "groups_and_solos"
-description: "Learn about some of my projects."
+description: "The Nottuswaram performance at Saadhana 2025, depicting Ganesha, son of Parvati and Shiva, was presented by Amyra, Gaura, Naira, Naomika, Sharanya and Tiyasha, students of the Shreyasi Gopinath Dance Academy."
+summary: "The Nottuswaram performance at Saadhana 2025, depicting Ganesha, son of Parvati and Shiva, was presented by Amyra, Gaura, Naira, Naomika, Sharanya and Tiyasha, students of the Shreyasi Gopinath Dance Academy."
 ---
 **Saadhana 2025**'s opening piece was **Nottuswaram**, composed by Muthuswami Dikshitar.<br />
 <br />

@@ -3,7 +3,8 @@ title: "Dashavataram"
 date: 2025-05-22
 weight: 56
 type: "groups_and_solos"
-description: "Learn about some of my projects."
+description: "The Dashavataram performance at Saadhana 2025, depicting the ten incarnations of Lord Vishnu, was presented by Avani, Avyana, Khushmita, Maarvi, Meera, Namya, Nihika, Prisha, Riddha, Saisha and Sanvi, students of the Shreyasi Gopinath Dance Academy."
+summary: "The Dashavataram performance at Saadhana 2025, depicting the ten incarnations of Lord Vishnu, was presented by Avani, Avyana, Khushmita, Maarvi, Meera, Namya, Nihika, Prisha, Riddha, Saisha and Sanvi, students of the Shreyasi Gopinath Dance Academy."
 ---
 
 **Saadhana 2025**'s eighth presentation was the **Dashavataram**, which depicts the ten incarnations of Lord Vishnu. 

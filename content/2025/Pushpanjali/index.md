@@ -3,7 +3,8 @@ title: "Pushpanjali"
 date: 2025-05-22
 weight: 53
 type: "groups_and_solos"
-description: "Learn about some of my projects."
+description: "The Pushpanjali performance at Saadhana 2025, meaning an offering of flowers, was performed by Abhirami, Radhika, Riya, Ruhbani, Tushti and Vidhi, adult students of the Shreyasi Gopinath Dance Academy, each of whom are in demanding professions and learn dance purely out of love for the art form."
+summary: "The Pushpanjali performance at Saadhana 2025, meaning an offering of flowers, was performed by Abhirami, Radhika, Riya, Ruhbani, Tushti and Vidhi, adult students of the Shreyasi Gopinath Dance Academy, each of whom are in demanding professions and learn dance purely out of love for the art form."
 ---
 **Saadhana 2025**'s third performance was a **Pushpanjali**, literally meaning _an offering of flowers_.
 

@@ -3,7 +3,8 @@ title: "Our Students"
 weight: 21
 date: 2025-05-22
 draft: false
-summary: "Performances by junior, advanced and senior students of Shreyasi Gopinath Dance Academy"
+description: "Performances by junior, senior and advanced students of Shreyasi Gopinath Dance Academy"
+summary: "Performances by junior, senior and advanced students of Shreyasi Gopinath Dance Academy"
 invertPagination: true
 showHero: true
 heroStyle: background

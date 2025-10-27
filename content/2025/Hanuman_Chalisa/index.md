@@ -3,7 +3,8 @@ title: "Hanuman Chalisa"
 date: 2025-05-22
 weight: 52
 type: "groups_and_solos"
-description: "Learn about some of my projects."
+description: "The Hanuman Chalisa performance at Saadhana 2025, depicting Hanuman and his devotion to Lord Rama, was presented by Avisha, Meera, Miri and Radhika, students of Shreyasi Gopinath Dance Academy."
+summary: "The Hanuman Chalisa performance at Saadhana 2025, depicting Hanuman and his devotion to Lord Rama, was presented by Avisha, Meera, Miri and Radhika, students of Shreyasi Gopinath Dance Academy."
 ---
 
 **Saadhana 2025**'s second performance was **Hanuman Chalisa**, written by the great saint-poet Tulsi Das.<br />

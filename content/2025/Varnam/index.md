@@ -2,15 +2,15 @@
 title: "Varnam"
 date: 2025-05-22
 weight: 60
-description: "Learn about some of my projects."
 draft: false
-summary: "Meenakshi Sud Dutt, senior student at Shreyasi Gopinath Dance Academy"
 invertPagination: true
 showHero: true
 heroStyle: background
 layoutBackgroundHeaderSpace: true
 layoutBackgroundBlur: true
 type: "groups_and_solos"
+description: "The Varnam performance at Saadhana 2025, depicting an excerpt from one of the central pieces in a Bharatanatyam recital, was presented by Meenakshi Sud Dutt, a senior student of the Shreyasi Gopinath Dance Academy."
+summary: "The Varnam performance at Saadhana 2025, depicting an excerpt from one of the central pieces in a Bharatanatyam recital, was presented by Meenakshi Sud Dutt, a senior student of the Shreyasi Gopinath Dance Academy."
 ---
 **Saadhana 2025**'s ninth performance was a **Varnam**.
 

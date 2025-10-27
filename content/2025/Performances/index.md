@@ -3,6 +3,7 @@ title: "Performances"
 weight: 4
 date: 2025-05-22
 draft: false
+description: "Performances by junior, advanced and senior students of Shreyasi Gopinath Dance Academy"
 summary: "Performances by junior, advanced and senior students of Shreyasi Gopinath Dance Academy"
 invertPagination: true
 showHero: true
