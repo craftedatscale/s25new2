@@ -3,8 +3,8 @@ title: "Guest Artists"
 weight: 22
 date: 2025-05-22
 draft: false
-description: "Saadhana 2025 continued our tradition of inviting young artists from a senior Guru’s school, to present a different art form and showcase their talen. Such an experience enriches the audience’s immersion in dance, and expands the horizons for parents and family too."
-summary: "Saadhana 2025 continued our tradition of inviting young artists from a senior Guru’s school, to present a different art form and showcase their talen. Such an experience enriches the audience’s immersion in dance, and expands the horizons for parents and family too."
+description: "Saadhana 2025 continued our tradition of inviting young artists from a senior Guru’s school, to present a different art form and showcase their talent. Such an experience enriched the audience’s immersion in dance, and expanded the horizons for parents and family."
+summary: "Saadhana 2025 continued our tradition of inviting young artists from a senior Guru’s school, to present a different art form and showcase their talent. Such an experience enriched the audience’s immersion in dance, and expanded the horizons for parents and family."
 invertPagination: true
 showHero: true
 heroStyle: background
