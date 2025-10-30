@@ -42,4 +42,4 @@ _**Snaps of the felicitation**_
   
 
 {{< /gallery >}}
-**Some glimpses from Backstage**
+**Some glimpses from backstage**
