@@ -33,6 +33,7 @@ layoutBackgroundBlur: true
 **Videography**: Mr. Lakshman<br />
 **Print**: Mr. Sanjeev Hasija<br />
 **Web**: Scale Research Consulting LLP
+**Framework**: [Blowfish](https://blowfish.page)<br />
 
 ### Volunteers
 **Ushers**: Aparna, Nitin, Nikhil, Payal, Saumya and Shikha<br />
@@ -46,6 +47,3 @@ layoutBackgroundBlur: true
     caption="(L-R) **Payal, Saumya, Aparna, Shikha, Nitin and Nikhil**"
     >}}
 {{< carousel images="gallery-06team-volunteers/*" aspectRatio="16-9" interval="3000" >}}
-
-### Online
-**Framework**: [Blowfish](https://blowfish.page)<br />
