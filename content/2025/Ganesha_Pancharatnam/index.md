@@ -11,7 +11,7 @@ summary: "The Ganesha Pancharatnam performance at Saadhana 2025, depicting the l
 Based on Lord Ganesha, this is the first piece taught to the little ones a few months after they've begun learning their steps.
 <br /> 
 
-_Performed by **Aashvi Baudhwar, Adhyanshi Jha, Anoosha Singh, Anvira Baudhwar, Arnika Jha, Inaya Sudan, Rabaani Kathuria, Saanvi Singh**, and **Veda Dhawan**._
+_Performed by **Aashvi, Adhyanshi, Anoosha, Anvira, Arnika, Inaya, Rabaani, Saanvi**, and **Veda**._
 
 {{< gallery >}}
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072141.JPG" class="grid-w100 md:grid-w100 xl:grid-w50" />

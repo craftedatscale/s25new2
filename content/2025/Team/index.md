@@ -31,12 +31,12 @@ layoutBackgroundBlur: true
 ### Media
 **Photography**: Mr. Naresh Gulati<br />
 **Videography**: Mr. Lakshman<br />
-**Print**: Mr. Sanjeev<br />
+**Print**: Mr. Sanjeev Hasija<br />
 **Web**: Scale Research Consulting LLP
 
 ### Volunteers
 **Ushers**: Aparna, Nitin, Nikhil, Payal, Saumya and Shikha<br />
-**Miscellaneous**: BVK, YRB
+**Miscellaneous**: Bhaskar, Yaduraj
 
 
 ### Glimpses of volunteers at Saadhana 2025
@@ -48,6 +48,4 @@ layoutBackgroundBlur: true
 {{< carousel images="gallery-06team-volunteers/*" aspectRatio="16-9" interval="3000" >}}
 
 ### Online
-**Site**: [Hugo](https://gohugo.io)<br />
 **Framework**: [Blowfish](https://blowfish.page)<br />
-**CI/CD**: [{{< icon "github" >}}](https://github.com)<br />

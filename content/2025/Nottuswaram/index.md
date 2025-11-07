@@ -10,7 +10,7 @@ summary: "The Nottuswaram performance at Saadhana 2025, depicting Ganesha, son o
 <br />
 With a unique Western touch, its simple phrases make it easily understandable, musically and emotionally. The piece focuses on Ganesha, the son of Parvati and Shiva, who increases knowledge, and whose _vaahan_ is the mouse.<br />
 
-_Performed by **Amyra Duggal, Gaura Madan, Naira Rastogi, Naomika Agarwal, Sharanya Batra** and **Tiyasha Saha.**_
+_Performed by **Amyra, Gaura, Naira, Naomika, Sharanya** and **Tiyasha.**_
 <br /><br />
 
 {{< gallery >}}

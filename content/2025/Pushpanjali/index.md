@@ -12,7 +12,7 @@ The piece is notable for its pure steps and for incorporating very little expres
 
 It was performed by adult students of the academy, each in demanding professions, who learn dance purely out of love for the art form.
 
-_Performed by **Abhirami Renuka Devi, Radhika Anand, Riya Singh, Ruhbani Singh, Tushti Mukherjee** and **Vidhi Jain**._
+_Performed by **Abhirami, Radhika, Riya, Ruhbani, Tushti** and **Vidhi**._
 
 {{< gallery >}}
   <img src="gallery-03-pushpanjali-performance/03-P1071872.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />

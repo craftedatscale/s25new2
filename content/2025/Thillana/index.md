@@ -3,10 +3,12 @@ title: "Thillana"
 date: 2025-05-22
 weight: 58
 type: "groups_and_solos"
-description: "Learn about some of my projects."
+description: ""
+summary: ""
 ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-_Performed by **Aatmika Gupta, Athira T C, Mithuna Jayadev Unnithan, Sarada Sastry, Sunayna Uberoy** and **Vidushi Ramchandani**._
+_Performed by **Aatmika, Athira, Mithuna, Sarada, Sunayna** and **Vidushi**._
 
 {{< gallery >}}
   <img src="gallery-08-thillana-performance/08-P1082848.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />

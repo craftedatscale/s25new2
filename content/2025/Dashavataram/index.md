@@ -9,7 +9,7 @@ summary: "The Dashavataram performance at Saadhana 2025, depicting the ten incar
 
 **Saadhana 2025**'s eighth presentation was the **Dashavataram**, which depicts the ten incarnations of Lord Vishnu. 
 
-_Performed by **Avani Mehta, Avyana Goel, Khushmita Khanna, Maarvi Mehta, Meera Barar, Namya Bhanot, Nihika Bajaj, Prisha Hora, Riddha Hora, Saisha Mago** and **Sanvi Kaushal**_.
+_Performed by **Avani, Avyana, Khushmita, Maarvi, Meera, Namya, Nihika, Prisha, Riddha, Saisha** and **Sanvi**_.
 
 {{< gallery >}}
   <img src="gallery-06-dashavataram-performance/06-P1072316.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
@@ -55,4 +55,3 @@ _**Snaps of the felicitation**_
   <img src="gallery-06-dashavataram-backstage/06-P1071592.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
 {{< /gallery >}}
 _**Some glimpses from backstage**_
-

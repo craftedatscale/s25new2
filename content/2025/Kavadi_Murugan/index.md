@@ -10,7 +10,7 @@ summary: "The Kavadi Murugam performance at Saadhana 2025, depicting pilgrimages
 <br />
 This was a short excerpt that the children have learned, to encourage them and give them the experience of being on stage.
 
-_Performed by **Anantara Thirumalai, Anandanpillai, Gunneet Aneja, Ivanka Sachdev, Kairah Pasbola, Shanaya Singh Rana** and **Swanika Kalia**._
+_Performed by **Anantara, Anandanpillai, Gunneet, Ivanka, Kairah, Shanaya** and **Swanika**._
 
 {{< gallery >}}
   <img src="gallery-07-kavadi-murugan-performance/07-P1082570.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />

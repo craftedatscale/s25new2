@@ -22,9 +22,10 @@ In 2025, **Shreyasi Gopinath Dance Academy** was delighted and grateful for supp
 
 ### Glimpses from our Esteemed Sponsors' felicitation
 {{< gallery >}}
-  <img src="gallery-02sponsors-glimpses/01-10-P1071669.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="gallery-02sponsors-glimpses/02-10-P1071678.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
+  <img src="gallery-02sponsors-glimpses/01-10-P1071669.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
 {{< /gallery >}}
+_Saadhana 2025 was graced by Shri Saurabh Dutt, Executive Director, IndianOil Corporation._
 <br />
 
 ### In 2024, **Shreyasi Gopinath Dance Academy** received support for _Saadhana_ from NTPC, Kumaran Silks, BooksWagon.com, HRI, Purple Dreams and the Kunwar Viyogi Memorial Trust.
@@ -34,7 +35,7 @@ In 2025, **Shreyasi Gopinath Dance Academy** was delighted and grateful for supp
 {{< /alert >}}
 <br />
 <br />
-It is said that no gift — especially from an organization — must be taken for granted. In contemporary times, there is much hard work involved in receiving a corporate gift, major or minor.
+It is said that no support — especially from an organization — must be taken for granted. In contemporary times, there is much hard work involved in receiving a corporate gift, major or minor.
 <br />
 
 {{< gallery >}}

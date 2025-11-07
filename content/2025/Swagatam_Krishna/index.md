@@ -10,7 +10,7 @@ summary: "The Swagatam Krishna performance at Saadhana 2025, depicting a devotee
 
 The piece depicts various stories from Krishna's life, including the story of Kaliya and the Gopis. 
 
-_Performed by **Amaira Nayyar, Anandita Sulakshana Arya, Ishika Pant, Jaysha Tandon, Mananya Thakur, Noor Malik, Saanvi Surya, Shoumili Monika Sen** and **Sirisha Agnihotri**._
+_Performed by **Amaira, Anandita, Ishika, Jaysha, Mananya, Noor, Saanvi, Shoumili** and **Sirisha**._
 
 
 {{< gallery >}}

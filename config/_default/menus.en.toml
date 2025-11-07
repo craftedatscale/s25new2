@@ -67,16 +67,11 @@
   url = "/2025/Founder"
   weight = 5
 
-[[main]]
-  name = "Academy"
-  parent = "Founder"
-  weight = 1
-  url = "/2025/Academy"
-  
+
 [[main]]
   name = "Team"
   parent = "Founder"
-  weight = 2
+  weight = 1
   url = "/2025/Team"
 
 [[main]]
