@@ -32,8 +32,8 @@ layoutBackgroundBlur: true
 **Photography**: Mr. Naresh Gulati<br />
 **Videography**: Mr. Lakshman<br />
 **Print**: Mr. Sanjeev Hasija<br />
-**Web**: Scale Research Consulting LLP
-**Framework**: [Blowfish](https://blowfish.page)<br />
+**Web**: Scale Research Consulting LLP<br />
+**Framework**: [Blowfish](https://blowfish.page)
 
 ### Volunteers
 **Ushers**: Aparna, Nitin, Nikhil, Payal, Saumya and Shikha<br />
