@@ -20,12 +20,22 @@
     </item>
     
     <item>
+      <title>Performances</title>
+      <link>http://192.168.0.247:1313/2025/performances/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.0.247:1313/2025/performances/</guid>
+      <description>Performances by junior and senior students of Shreyasi Gopinath Dance Academy</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/performances/feature-04-P1072047.jpg" />
+    </item>
+    
+    <item>
       <title>Sponsors</title>
       <link>http://192.168.0.247:1313/2025/sponsors/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       
       <guid>http://192.168.0.247:1313/2025/sponsors/</guid>
-      <description>Saadhana 2025&amp;rsquo;s esteemed sponsors were NTPC, IndianOil, Accessorize by Ruhnaal and the Kunwar Viyogi Memorial Trust.</description>
+      <description>Saadhana 2025&amp;rsquo;s esteemed sponsors were IndianOil, NTPC, Accessorize by Ruhnaal, and the Kunwar Viyogi Memorial Trust.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/sponsors/feature-10-P1071576.JPG" />
     </item>
     
@@ -37,16 +47,6 @@
       <guid>http://192.168.0.247:1313/2025/founder/</guid>
       <description>Shreyasi Gopinath</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/founder/feature-10-P1071655.JPG" />
-    </item>
-    
-    <item>
-      <title>Performances</title>
-      <link>http://192.168.0.247:1313/2025/performances/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://192.168.0.247:1313/2025/performances/</guid>
-      <description>Performances by junior, advanced and senior students of Shreyasi Gopinath Dance Academy</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://192.168.0.247:1313/2025/performances/feature-04-P1072047.jpg" />
     </item>
     
     <item>

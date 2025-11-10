@@ -1,10 +1,10 @@
 ---
 title: "Sponsors"
-weight: 2
+weight: 3
 date: 2025-05-22
 draft: false
-summary: "Saadhana 2025's esteemed sponsors were NTPC, IndianOil, Accessorize by Ruhnaal and the Kunwar Viyogi Memorial Trust."
-description: "Saadhana 2025's esteemed sponsors were NTPC, IndianOil, Accessorize by Ruhnaal and the Kunwar Viyogi Memorial Trust."
+summary: "Saadhana 2025's esteemed sponsors were IndianOil, NTPC, Accessorize by Ruhnaal, and the Kunwar Viyogi Memorial Trust."
+description: "Saadhana 2025's esteemed sponsors were IndianOil, NTPC, Accessorize by Ruhnaal, and the Kunwar Viyogi Memorial Trust."
 invertPagination: true
 showHero: true
 heroStyle: background
@@ -15,7 +15,8 @@ layoutBackgroundBlur: true
 
 ## Since its inception, _Saadhana_ has been blessed with  encouragement and support from sponsors, patrons and the dance community.
 
-In 2025, **Shreyasi Gopinath Dance Academy** was delighted and grateful for support for _Saadhana_ from numerous esteemed sponsors:
+Corporations and institutions 
+In 2025, **Shreyasi Gopinath Dance Academy** was delighted and grateful for support for _Saadhana_ from numerous esteemed sponsors, like IndianOil Corporation, National Thermal Power Corporation, Accessorize with Ruhnaal and the Kunwar Viyogi Memmorial Trust.
 
 {{< carousel images="carousel-02sponsors-2025/*" aspectRatio="21-9" interval="1500" >}}
 <br />
@@ -25,7 +26,7 @@ In 2025, **Shreyasi Gopinath Dance Academy** was delighted and grateful for supp
   <img src="gallery-02sponsors-glimpses/02-10-P1071678.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="gallery-02sponsors-glimpses/01-10-P1071669.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
 {{< /gallery >}}
-_Saadhana 2025 was graced by Shri Saurabh Dutt, Executive Director, IndianOil Corporation._
+_Saadhana 2025 was graced by **Shri Saurabh Dutt**, Executive Director (Brand and Corporate Communications), **IndianOil Corporation**._
 <br />
 
 ### In 2024, **Shreyasi Gopinath Dance Academy** received support for _Saadhana_ from NTPC, Kumaran Silks, BooksWagon.com, HRI, Purple Dreams and the Kunwar Viyogi Memorial Trust.

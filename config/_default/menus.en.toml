@@ -119,7 +119,7 @@
 [[footer]]
   identifier = "whatsapp"
   pre = "whatsapp"
-  name = "+91 9818689428"
+  name = "+91 9311139148"
   weight = 5
-  url = "https://api.whatsapp.com/send?phone=919818689428"
+  url = "https://api.whatsapp.com/send?phone=919311139148"
 

@@ -26,19 +26,12 @@ In 2025, the festival featured performances that showcased stories from our myth
 
 _Saadhana_, meaning a dedicated and disciplined way of learning, also means practice, hard work, resilience and single-mindedness, attributes that were incorporated in the performances.
 
-{{< alert icon="expand" >}}
-[**_Click here to learn more about the 2024 Festival_**](https://saadhana2024.sgda.in)
-{{< /alert >}}
-
-<br />
-<br />
-
 ### Chief Guest at Saadhana 2025
 {{< figure
     src="figure-saadhana2025-chiefguest-AnandraoVPatil.png"
     default=true
+    nozoom=false
     >}}
-   
 **Shri Anandrao V. Patil IAS (TN: 1998)** is **Additional Secretary in the Department of School Education & Literacy, Government of India.** His principal responsibilities are the Pradhan Mantri Poshan Yojana and the Digital Education Bureau. 
 
 He also steers numerous other significant initiatives at the Department of School Education & Literacy, like Manodarpan, Mental Health and Wellbeing, Rangotasav, Language Festival, Kala Utsav and Toy-based pedagogy. These portfolios are in addition to matters related to Gifted/Talented Children in the implementation of the Samagra Shiksha programme in India’s Ashthalakshmi states (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura and Sikkim).
@@ -46,8 +39,15 @@ He also steers numerous other significant initiatives at the Department of Schoo
 Previously, he was Joint Secretary to the Ministry of Finance in the Department of Financial Services. Shri Patil played a key role in the 2016 amending of the NPA Acts, namely SARFAESI and the RDBI Acts of the Ministry of Finance, and was on the Boards of several Public Sector Banks.
 
 Shri Patil has also served as Principal Secretary to the Hon’ble Governor of Tamil Nadu, and has been the District Collector of Sivagangai and The Nilgiris (Ooty) districts for nearly 5 years.
-<br />
-<br />
-
 ### Glimpses from the Chief Guest's felicitation
-{{< carousel images="carousel-01festival/*" aspectRatio="16-9" interval="3000" >}}
+{{< carousel images="carousel-01chiefguest/*" aspectRatio="16-9" interval="3000" >}}
+<br />
+## Guest of Honour at Saadhana 2025
+Saadhana 2025 was graced by **Shri Saurabh Dutt**, Executive Director (Brand and Corporate Communications), **IndianOil Corporation**.
+{{< carousel images="carousel-02guestofhonour/*" aspectRatio="16-9" interval="3000" >}}
+_Glimpses from the Chief Guest's felicitation_
+<br />
+<br />
+{{< alert icon="expand" >}}
+[**_Click here to learn more about the 2024 Festival_**](https://saadhana2024.sgda.in)
+{{< /alert >}}

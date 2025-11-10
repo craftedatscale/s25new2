@@ -9,6 +9,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://192.168.0.247:1313/2025/performances/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://192.168.0.247:1313/2025/sponsors/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -16,12 +22,6 @@
   </url>
   <url>
     <loc>http://192.168.0.247:1313/2025/founder/</loc>
-    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://192.168.0.247:1313/2025/performances/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

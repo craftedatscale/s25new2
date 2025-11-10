@@ -1,6 +1,6 @@
 ---
 title: "Founder"
-weight: 3
+weight: 4
 date: 2025-05-22
 draft: false
 summary: "Shreyasi Gopinath"
@@ -11,7 +11,7 @@ layoutBackgroundHeaderSpace: true
 layoutBackgroundBlur: true
 
 ---
-## Shreyasi's aim is to preserve India's cultural traditions through her performances and teachings, and to cultivate a community that not only produces exceptional dancers but also well-rounded individuals who carry the values of teamwork, respect and perseverance into their lives.
+### Shreyasi's aim is to preserve India's cultural traditions through her performances and teachings, and to cultivate a community that not only produces exceptional dancers but also well-rounded individuals who carry the values of teamwork, respect and perseverance into their lives.
 
 {{< figure
     src="figure-spotlight2-shreyasi-gopinath.jpg"
