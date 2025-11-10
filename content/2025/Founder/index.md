@@ -27,6 +27,7 @@ Shreyasi began her formal training at **age 7** with late **Guru Dr. Saroja Vaid
 {{< figure
     src="figure-sg-childhood-photo.jpeg"
     nozoom=true
+    caption="_Shreyasi at age 9_"
     >}}
 
 A scholarship holder from Government of India's Ministry of Culture, Shreyasi is a **graded Doordarshan artist** and empanelled with the India International Rural Cultural Centre. She has **performed across the world** and is a recipient of various **prestigious awards**.

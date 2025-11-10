@@ -18,7 +18,7 @@ summary: "Saadhana 2025 featured two Kathak pieces, Shri Shankara Mahadeva and o
 
 The second presentation by guest artists this year was of **Kathak**, performed by [**Nrityashri Alaknanda ji**](#nrityashri-alaknanda)'s student [**Nandini Khattar**](#nandini-khattar).
 
-Nandini presenting two pieces, _Shankara Shri Mahadeva_ and a piece on Lord Krishna.
+Nandini presenting two pieces, _Shankara Shri Mahadeva_ and on Lord Krishna.
 {{< gallery >}}
   <img src="gallery-kathak/01-13-P1082681.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-kathak/02-13-P1082700.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />

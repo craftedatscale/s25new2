@@ -63,6 +63,12 @@
   weight = 3
 
 [[main]]
+  name = "Behind The Scenes"
+  parent = "Performances"
+  url = "/2025/BehindTheScenes"
+  weight = 4
+
+[[main]]
   name = "Founder"
   url = "/2025/Founder"
   weight = 5
@@ -122,4 +128,11 @@
   name = "+91 9311139148"
   weight = 5
   url = "https://api.whatsapp.com/send?phone=919311139148"
+
+[[footer]]
+  identifier = "wand-magic-sparkles"
+  pre = "wand-magic-sparkles"
+  name = "Learn at SGDA"
+  weight = 6
+  url = "https://www.shreyasigopinath.com/admission-form/"
 
