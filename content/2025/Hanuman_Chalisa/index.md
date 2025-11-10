@@ -24,13 +24,10 @@ _Performend by **Avisha, Meera, Miri** and **Radhika**_.<br />
   <img src="gallery-02-hanuman-chalisa-performance/02-P1071784.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-02-hanuman-chalisa-performance/02-P1071807.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-02-hanuman-chalisa-performance/02-P1071813.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-02-hanuman-chalisa-performance/02-P1071815.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="gallery-02-hanuman-chalisa-performance/02-P1071817.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-02-hanuman-chalisa-performance/02-P1071845.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="gallery-02-hanuman-chalisa-performance/02-P1071845.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="gallery-02-hanuman-chalisa-performance/02-P1071848.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-02-hanuman-chalisa-performance/02-P1071851.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-02-hanuman-chalisa-performance/02-P1071852.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-02-hanuman-chalisa-performance/02-P1071859.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 _**Moments from the performance**_
 <br />

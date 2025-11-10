@@ -19,10 +19,6 @@ _Performed by **Aatmika, Athira, Mithuna, Sarada, Sunayna** and **Vidushi**._
   <img src="gallery-08-thillana-performance/08-P1082872.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-08-thillana-performance/08-P1082881.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-08-thillana-performance/08-P1082885.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
-  <img src="gallery-08-thillana-performance/08-P1082886.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-08-thillana-performance/08-P1082892.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-08-thillana-performance/08-P1082901.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-08-thillana-performance/08-P1082902.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-08-thillana-performance/08-P1082904.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-08-thillana-performance/08-P1082905.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}

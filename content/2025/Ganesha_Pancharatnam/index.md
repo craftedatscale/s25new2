@@ -17,15 +17,12 @@ _Performed by **Aashvi, Adhyanshi, Anoosha, Anvira, Arnika, Inaya, Rabaani, Saan
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072141.JPG" class="grid-w100 md:grid-w100 xl:grid-w50" />
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072150.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072151.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
-  <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072154.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072156.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072160.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072161.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072162.JPG" class="grid-w100 md:grid-w100 xl:grid-w50" />
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072170.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072180.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
-  <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072190.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
-  <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072193.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072197.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
 {{< /gallery >}}
 _**Moments from the performance**_

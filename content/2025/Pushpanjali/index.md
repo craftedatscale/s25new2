@@ -19,9 +19,6 @@ _Performed by **Abhirami, Radhika, Riya, Ruhbani, Tushti** and **Vidhi**._
   <img src="gallery-03-pushpanjali-performance/03-P1071876.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="gallery-03-pushpanjali-performance/03-P1071886.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="gallery-03-pushpanjali-performance/03-P1071893.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
-  <img src="gallery-03-pushpanjali-performance/03-P1071894.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-03-pushpanjali-performance/03-P1071906.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-03-pushpanjali-performance/03-P1071923.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 _**Moments from the performance**_
 <br />

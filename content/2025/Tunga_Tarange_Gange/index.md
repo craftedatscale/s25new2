@@ -18,10 +18,8 @@ _Performed by **Ishana, Neha**, and **Nidhi**._
   <img src="gallery-04-tunga-tarange-gange-performance/04-P1071958.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-04-tunga-tarange-gange-performance/04-P1072004.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-04-tunga-tarange-gange-performance/04-P1072016.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
-  <img src="gallery-04-tunga-tarange-gange-performance/04-P1072028.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-04-tunga-tarange-gange-performance/04-P1072049.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-04-tunga-tarange-gange-performance/04-P1072085.JPG" class="grid-w100 md:grid-w100 xl:grid-w50" />
-  <img src="gallery-04-tunga-tarange-gange-performance/04-P1072091.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-04-tunga-tarange-gange-performance/04-P1072110.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-04-tunga-tarange-gange-performance/04-P1072119.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
   <img src="gallery-04-tunga-tarange-gange-performance/04-P1072134.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />

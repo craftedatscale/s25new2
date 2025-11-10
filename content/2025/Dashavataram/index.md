@@ -12,26 +12,17 @@ summary: "The Dashavataram performance at Saadhana 2025, depicting the ten incar
 _Performed by **Avani, Avyana, Khushmita, Maarvi, Meera, Namya, Nihika, Prisha, Riddha, Saisha** and **Sanvi**_.
 
 {{< gallery >}}
-  <img src="gallery-06-dashavataram-performance/06-P1072316.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
+  <img src="gallery-06-dashavataram-performance/06-P1072362.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="gallery-06-dashavataram-performance/06-P1072320.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072328.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072333.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072345.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-06-dashavataram-performance/06-P1072350.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072351.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072355.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
-  <img src="gallery-06-dashavataram-performance/06-P1072357.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072358.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-06-dashavataram-performance/06-P1072362.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
-  <img src="gallery-06-dashavataram-performance/06-P1072370.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-06-dashavataram-performance/06-P1072376.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072378.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-06-dashavataram-performance/06-P1072381.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-06-dashavataram-performance/06-P1072384.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072387.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
-  <img src="gallery-06-dashavataram-performance/06-P1072389.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072392.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-06-dashavataram-performance/06-P1072394.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072405.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072410.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="gallery-06-dashavataram-performance/06-P1072422.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
