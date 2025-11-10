@@ -11,6 +11,9 @@ layoutBackgroundHeaderSpace: true
 layoutBackgroundBlur: true
 
 ---
+
+Saadhana 2025 was our biggest festival yet, and bringing it all together meant an immense number of performers, parents, people and processes came together harmoniously. We are grateful to be able to call upon so many friends and well-wishers - **thank you**!
+
 ### Orchestra
 **Mridangam**: G. Swaminathan<br />
 **Nattuvangam**: Shreyasi Gopinath<br />

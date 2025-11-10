@@ -33,40 +33,7 @@ The performance **_Yodha_** is a war dance of **Mayurbanj Chhau**, performed in 
 _**Moments from the performance**_
 
 {{< carousel images="carousel-chhau/*" aspectRatio="16-9" interval="1800" >}}
-_**Snaps of the felicitation**_<a id=sudhir-kumar></a>
-
-### Sudhir Kumar [{{< icon "instagram" >}}](https://www.instagram.com/sudheer.kumar174) [{{< icon "facebook" >}}](https://www.facebook.com/sudheer.kumar.5011516)
-{{< figure
-    src="figure-Sudhir_Kumar.jpg"
-    default=true
-    width=400
-    >}}
-
-**Sudhir Kumar joined Sadhya in 2011** and has been training in **Mayurbhanj Chhau and Contemporary Dance under Santosh Nair**. 
-
-He has performed in numerous Sadhya productions, like 'The Game of Dice', 'Unbounded', and 'The Mystical Forest', at events like the CII Conference Tanzania, World Dance Day (2013-19), Festival Of India in Budapest, and for the Centenary Celebration of Amala Shankar in Kolkata. In 2019, under the aegis of ICCR, he performed in Vietnam and Philippines with Sadhya.
-
-Apart from assisting in the choreography of numerous Sadhya productions, **he has choreographed dance pieces himself**, in the Mayurbhanj Chhau and Contemporary Dance styles.
-
-{{< alert icon="circle-icon" >}}
-_Follow **Sudhir Kumar** on_ [_Instagram_](https://www.instagram.com/sudheer.kumar174) _and_ [_Facebook_](ttps://www.facebook.com/sudheer.kumar.5011516)
-{{< /alert >}}<a id=himesh-parcha></a>
-<br />
-
-### Himesh Parcha [{{< icon "instagram" >}}](https://www.instagram.com/himeshparcha/) [{{< icon "facebook" >}}](https://www.facebook.com/himesh.parcha/)
-{{< figure
-    src="figure-Himesh_Parcha.jpg"
-    default=true
-    width=400
-    >}}
-
-**Himesh Parcha joined Sadhya in 2011** and has been **training in Mayurbhanj Chhau and Contemporary Dance** under **Santosh Nair**.
-
-He has performed in numerous Sadhya productions, like 'The Game of Dice', 'Unbounded', and 'The Mystical Forest', at events like the South Asian Rotary Summit, World Dance Day (2013-19), the Festival of India in Budapest, and for the Centenary Celebration of Amala Shankar in Kolkata. In 2019, under the aegis of ICCR, he performed in Vietnam and Philippines with Sadhya.
-
-{{< alert icon="circle-icon" >}}
-_Follow **Himesh Parcha** on_ [_Instagram_](https://www.instagram.com/himesh.parcha) _and_ [_Facebook_](ttps://www.facebook.com/himesh.parcha)
-{{< /alert >}}<a id=santosh-nair></a>
+<a id=santosh-nair></a>_**Snaps of the felicitation**_
 <br />
 
 ## Shri Santosh Nair [{{< icon "instagram" >}}](https://www.instagram.com/santosh.sadhya) [{{<icon "youtube" >}}](https://www.youtube.com/@sadhyadance) [{{< icon "globe" >}}](https://www.sadhya.com)
@@ -86,4 +53,39 @@ He has been awarded PHD Art & Culture Samman, Atal Behari Vajpayee Lifetime Achi
 
 {{< alert icon="circle-icon" >}}
 _Follow **Guru Santosh Nair** on_ [_Instagram_](https://www.instagram.com/santosh.sadhya) _and_ [_YouTube_](https://www.youtube.com/@sadhyadance), and [_visit Sadhya Dance Company_](https://sadhya.com)
+{{< /alert >}}
+<a id=sudhir-kumar></a>
+<br />
+<br />
+### Sudhir Kumar [{{< icon "instagram" >}}](https://www.instagram.com/sudheer.kumar174) [{{< icon "facebook" >}}](https://www.facebook.com/sudheer.kumar.5011516)
+{{< figure
+    src="figure-Sudhir_Kumar.jpg"
+    default=true
+    width=400
+    >}}
+
+**Sudhir Kumar joined Sadhya in 2011** and has been training in **Mayurbhanj Chhau and Contemporary Dance under Santosh Nair**. 
+
+He has performed in numerous Sadhya productions, like 'The Game of Dice', 'Unbounded', and 'The Mystical Forest', at events like the CII Conference Tanzania, World Dance Day (2013-19), Festival Of India in Budapest, and for the Centenary Celebration of Amala Shankar in Kolkata. In 2019, under the aegis of ICCR, he performed in Vietnam and Philippines with Sadhya.
+
+Apart from assisting in the choreography of numerous Sadhya productions, **he has choreographed dance pieces himself**, in the Mayurbhanj Chhau and Contemporary Dance styles.
+
+{{< alert icon="circle-icon" >}}
+_Follow **Sudhir Kumar** on_ [_Instagram_](https://www.instagram.com/sudheer.kumar174) _and_ [_Facebook_](ttps://www.facebook.com/sudheer.kumar.5011516)
+{{< /alert >}}<a id=himesh-parcha></a>
+<br />
+<br />
+### Himesh Parcha [{{< icon "instagram" >}}](https://www.instagram.com/himeshparcha/) [{{< icon "facebook" >}}](https://www.facebook.com/himesh.parcha/)
+{{< figure
+    src="figure-Himesh_Parcha.jpg"
+    default=true
+    width=400
+    >}}
+
+**Himesh Parcha joined Sadhya in 2011** and has been **training in Mayurbhanj Chhau and Contemporary Dance** under **Santosh Nair**.
+
+He has performed in numerous Sadhya productions, like 'The Game of Dice', 'Unbounded', and 'The Mystical Forest', at events like the South Asian Rotary Summit, World Dance Day (2013-19), the Festival of India in Budapest, and for the Centenary Celebration of Amala Shankar in Kolkata. In 2019, under the aegis of ICCR, he performed in Vietnam and Philippines with Sadhya.
+
+{{< alert icon="circle-icon" >}}
+_Follow **Himesh Parcha** on_ [_Instagram_](https://www.instagram.com/himesh.parcha) _and_ [_Facebook_](ttps://www.facebook.com/himesh.parcha)
 {{< /alert >}}

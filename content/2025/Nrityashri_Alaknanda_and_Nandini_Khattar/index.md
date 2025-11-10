@@ -28,28 +28,10 @@ Nandini presenting two pieces, _Shankara Shri Mahadeva_ and on Lord Krishna.
 {{< /gallery >}}
  _**Moments from the performance**_
 {{< carousel images="carousel-kathak/*" aspectRatio="16-9" interval="1800" >}}
-_**Snaps of the felicitation**_
-<br /><a id="nandini-khattar"></a>
-<br />
-
-### Nandini Khattar [{{< icon "instagram" >}}](https://www.instagram.com/nandini_khattar/)
-{{< figure
-    src="figure-nandini-khattar.jpg"
-    default=true
-    width=400
-    >}}
-
-Nandini Khattar has been a disciple of Guru Nrityashri Alaknanda since 2011, and is a senior dance teacher at the Alaknanda Institute for Performing Arts. She has had the privilege of performing alongside her Guru on prominent international stages, in Bulgaria (2013), Poland (2015), Paris (2017), London (2018) and more.
-
-As a senior member of her Guru's troupe, Alaknanda Sanskriti, Nandini has performed at Delhi's premier venues. Beyond ensemble productions, she has also established herself as a solo performer.
-
-Nandini credits her Bachelor's degree in Applied Psychology with enriching her understanding of the expressive aspects of dance.
-
-{{< alert icon="circle-icon" >}}
-_Follow **Nandini Khattar** on_ [_Instagram_](https://www.instagram.com/nandini_khattar)
-{{< /alert >}}
-<br />
 <a id="nrityashri-alaknanda"></a>
+_**Snaps of the felicitation**_
+
+
 ## Nrityashri Alaknanda [{{< icon "instagram" >}}](https://www.instagram.com/alaknandainstitute/) [{{<icon "youtube" >}}](https://www.youtube.com/@alaknandakathak975)
 {{< figure
     src="figure-nrityashri-alaknanda.jpg"
@@ -70,4 +52,23 @@ A cancer survivor, Alaknanda's resilience and passion for dance gave her the str
 
 {{< alert icon="circle-icon" >}}
 _Follow **Nrityashri Alaknanda** on_ [_Instagram_](https://www.instagram.com/alaknandainstitute/) _and_ [_YouTube_](https://www.youtube.com/@alaknandakathak975)
+{{< /alert >}}
+<a id="nandini-khattar"></a><br />
+<br />
+<br />
+### Nandini Khattar [{{< icon "instagram" >}}](https://www.instagram.com/nandini_khattar/)
+{{< figure
+    src="figure-nandini-khattar.jpg"
+    default=true
+    width=400
+    >}}
+
+Nandini Khattar has been a disciple of Guru Nrityashri Alaknanda since 2011, and is a senior dance teacher at the Alaknanda Institute for Performing Arts. She has had the privilege of performing alongside her Guru on prominent international stages, in Bulgaria (2013), Poland (2015), Paris (2017), London (2018) and more.
+
+As a senior member of her Guru's troupe, Alaknanda Sanskriti, Nandini has performed at Delhi's premier venues. Beyond ensemble productions, she has also established herself as a solo performer.
+
+Nandini credits her Bachelor's degree in Applied Psychology with enriching her understanding of the expressive aspects of dance.
+
+{{< alert icon="circle-icon" >}}
+_Follow **Nandini Khattar** on_ [_Instagram_](https://www.instagram.com/nandini_khattar)
 {{< /alert >}}
