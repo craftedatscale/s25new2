@@ -24,7 +24,7 @@ summary: "The 2025 edition of Saadhana, the signature annual event of the Shreya
 
 In 2025, the festival featured performances that showcased stories from our mythology, with oral narrative transformed using music and dance as a form of expression.
 
-_Saadhana_, meaning a dedicated and disciplined way of learning, also means practice, hard work, resilience and single-mindedness, attributes that were incorporated in the performances.
+_**Saadhana**_, meaning a dedicated and disciplined way of learning, also means practice, hard work, resilience and single-mindedness, attributes that were incorporated in the performances.
 
 {{< gallery >}}
   <img src="gallery-01attendees/11-P1071631.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
@@ -60,7 +60,7 @@ _**Glimpses from the Chief Guest's felicitation**_
 <br />
 <br />
 ## Guest of Honour at Saadhana 2025
-Saadhana 2025 was graced by **Shri Saurabh Dutt**, Executive Director (Brand and Corporate Communications), **IndianOil Corporation**.
+**IndianOil Corporation Limited** was a significant supporter of Saadhana 2025, and the event was graced by **Shri Saurabh Dutt**, Executive Director (Brand and Corporate Communications).
 {{< carousel images="carousel-02guestofhonour/*" aspectRatio="16-9" interval="3000" >}}
 _**Glimpses from the Chief Guest's felicitation**_
 <br />

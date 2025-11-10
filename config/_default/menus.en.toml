@@ -33,17 +33,10 @@
   weight = 2
 
 [[main]]
-  name = "Sponsors"
-  url = "/2025/sponsors"
-  weight = 3
-
-[[main]]
   name = "Performances"
   url = "/2025/Performances/"
-  weight = 4
+  weight = 3
   
-  
-
 [[main]]
   name = "Our Students"
   parent = "Performances"
@@ -66,6 +59,11 @@
   name = "Behind The Scenes"
   parent = "Performances"
   url = "/2025/BehindTheScenes"
+  weight = 4
+
+[[main]]
+  name = "Sponsors"
+  url = "/2025/sponsors"
   weight = 4
 
 [[main]]
