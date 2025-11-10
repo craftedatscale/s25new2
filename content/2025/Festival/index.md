@@ -26,6 +26,22 @@ In 2025, the festival featured performances that showcased stories from our myth
 
 _Saadhana_, meaning a dedicated and disciplined way of learning, also means practice, hard work, resilience and single-mindedness, attributes that were incorporated in the performances.
 
+{{< gallery >}}
+  <img src="gallery-01attendees/11-P1071631.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
+  <img src="gallery-01attendees/11-P1071640.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
+  <img src="gallery-01attendees/11-P1071641.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
+  <img src="gallery-01attendees/11-P1071642.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
+  <img src="gallery-01attendees/11-P1071645.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
+  <img src="gallery-01attendees/11-P1071648.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
+  <img src="gallery-01attendees/11-P1071649.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
+  <img src="gallery-01attendees/11-P1071651.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="gallery-01attendees/11-P1071652.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
+  <img src="gallery-01attendees/11-P1071653.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
+_**Moments from the evening**_
+<br />
+
+
 ### Chief Guest at Saadhana 2025
 {{< figure
     src="figure-saadhana2025-chiefguest-AnandraoVPatil.png"
