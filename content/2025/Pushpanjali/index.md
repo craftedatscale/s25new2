@@ -27,8 +27,3 @@ _**Moments from the performance**_
 _**Snaps of the felicitation**_
 <br />
 <br />
-
-{{< gallery >}}
-  <img src="gallery-03-pushpanjali-backstage/03-P1071579.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-{{< /gallery >}}
-_**Some glimpses from backstage**_

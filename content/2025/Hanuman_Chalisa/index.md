@@ -36,12 +36,3 @@ _**Moments from the performance**_
 _**Snaps of the felicitation**_
 <br />
 <br />
-
-{{< gallery >}}
-  <img src="gallery-02-hanuman-chalisa-backstage/02-P1071611.JPG" class="grid-w50 md:grid-w33 xl:grid-w15" />
-  <img src="gallery-02-hanuman-chalisa-backstage/02-P1071625.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-02-hanuman-chalisa-backstage/02-P1071600.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-02-hanuman-chalisa-backstage/02-P1071609.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-02-hanuman-chalisa-backstage/02-P1071623.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-{{< /gallery >}}
-_**Some glimpses from backstage**_

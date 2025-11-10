@@ -32,11 +32,3 @@ _**Moments from the performance**_
 _**Snaps of the felicitation**_
 <br />
 <br />
-
-{{< gallery >}}
-  <img src="gallery-05-ganesha-pancharatnam-backstage/05-P1071619.JPG" class="grid-w50 md:grid-w33 xl:grid-w15" />
-  <img src="gallery-05-ganesha-pancharatnam-backstage/05-P1071593.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-05-ganesha-pancharatnam-backstage/05-P1071606.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="gallery-05-ganesha-pancharatnam-backstage/05-P1071615.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
-{{< /gallery >}}
-_**Some glimpses from backstage**_

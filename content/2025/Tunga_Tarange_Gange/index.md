@@ -31,10 +31,3 @@ _**Moments from the performance**_
 _**Snaps of the felicitation**_
 <br />
 <br />
-
-{{< gallery >}}
-  <img src="gallery-04-tunga-tarange-gange-backstage/04-P1071599.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
-  <img src="gallery-04-tunga-tarange-gange-backstage/04-P1071597.JPG" class="grid-w50 md:grid-w33 xl:grid-w20" />
-{{< /gallery >}}
-_**Some glimpses from backstage**_
-

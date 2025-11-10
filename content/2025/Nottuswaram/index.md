@@ -26,11 +26,3 @@ _**Moments from the performance**_
 _**Snaps of the felicitation**_
 <br />
 <br />
-
-{{< gallery >}}
-  <img src="gallery-01-nottuswaram-backstage/01-P1071592.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-01-nottuswaram-backstage/01-P1071591.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-01-nottuswaram-backstage/01-P1071621.JPG" class="grid-w50 md:grid-w33 xl:grid-w15" />
-{{< /gallery >}}
-_**Some glimpses from backstage**_
-

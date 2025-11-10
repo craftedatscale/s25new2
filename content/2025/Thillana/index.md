@@ -29,15 +29,3 @@ _**Moments from the performance**_
 _**Snaps of the felicitation**_
 <br />
 <br />
-
-{{< gallery >}}
-  <img src="gallery-08-thillana-backstage/08-P1071608.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-08-thillana-backstage/08-P1071604.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-08-thillana-backstage/08-P1071596.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-08-thillana-backstage/08-P1071585.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-08-thillana-backstage/08-P1071586.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
-  <img src="gallery-08-thillana-backstage/08-P1071607.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
-  
-
-{{< /gallery >}}
-**Some glimpses from backstage**

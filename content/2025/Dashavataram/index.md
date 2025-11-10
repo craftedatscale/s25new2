@@ -40,9 +40,3 @@ _**Moments from the performance**_
 _**Snaps of the felicitation**_
 <br />
 <br />
-
-{{< gallery >}}
-  <img src="gallery-06-dashavataram-backstage/06-P1071584.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-06-dashavataram-backstage/06-P1071592.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-{{< /gallery >}}
-_**Some glimpses from backstage**_

@@ -31,10 +31,3 @@ _**Moments from the performance**_
 _**Snaps of the felicitation**_
 <br />
 <br />
-
-{{< gallery >}}
-  <img src="gallery-07-kavadi-murugan-backstage/07-P1071626.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-07-kavadi-murugan-backstage/07-P1071628.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-07-kavadi-murugan-backstage/07-P1071629.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-{{< /gallery >}}
-_**Some glimpses from backstage**_

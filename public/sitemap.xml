@@ -117,6 +117,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://192.168.0.247:1313/2025/behindthescenes/</loc>
+    <lastmod>2025-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://192.168.0.247:1313/2025/nrityashri_alaknanda_and_nandini_khattar/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>

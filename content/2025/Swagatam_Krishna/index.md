@@ -36,10 +36,3 @@ _**Moments from the performance**_
 _**Snaps of the felicitation**_
 <br />
 <br />
-
-{{< gallery >}}
-  <img src="gallery-09-swagatam-krishna-backstage/09-P1071587.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-09-swagatam-krishna-backstage/09-P1071588.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-  <img src="gallery-09-swagatam-krishna-backstage/09-P1071589.JPG" class="grid-w50 md:grid-w33 xl:grid-w33" />
-{{< /gallery >}}
-_**Some glimpses from backstage**_
