@@ -6,7 +6,21 @@ type: "groups_and_solos"
 description: ""
 summary: ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+In this Bhajan, Meera exclaims:
+> **हरी मैं तो लाख यतन कर हारी**<br />
+> **महल में ढूंढा, गिरिवन में ढूंढा**<br />
+> **ढूंढी दुनिया सारी**<br />
+
+A broad translation of this would be: _**"Lord Krishna, I searched everywhere but I couldn't find you."**_
+
+She persists in her search, going and asking the branches - _**डाल डाल से, भूल बात से, जा पूछा गुंजन में**_ - and even the peacocks, **"_have you seen him?_"**
+
+When they respond with a no, she is disappointed and decides to asks the herds of cows he grazes - they too have not seen him. Nor have the flowers and the bees, who Meera asks next, who decline to reveal, even if they may be aware of where he is.
+
+_**"I constantly pray to you and sing your praise... Oh Krishna, please come!"**_, she exclaims.
+
+That moment, when Meera is sad, upset and sitting alone is when Krishna decides to appear to her.
 
 _Performed by **Aditi, Amaira, Ananya, Ayana, Devishi, Nayana** and **Samaira**._
 
