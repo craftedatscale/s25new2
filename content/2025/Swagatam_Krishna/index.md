@@ -8,10 +8,21 @@ summary: "The Swagatam Krishna performance at Saadhana 2025, depicting a devotee
 ---
 **Saadhana 2025**'s performance concluded with a presentation of **Swagatam Krishna**, where the devotee is saying _O Krishna, please come, let me touch your feet._
 
-The piece depicts various stories from Krishna's life, including the story of Kaliya and the Gopis. 
-
+The piece depicts various stories from Krishna's life, including the story of Kaliya and the Gopis.
+<br />
+<br />
+{{< youtubeLite id="JODKvRvQzdo" params="controls=1" >}}
+{{< alert icon="circle-icon" >}}
 _Performed by **Amaira, Anandita, Ishika, Jaysha, Mananya, Noor, Saanvi, Shoumili** and **Sirisha**._
+{{< /alert >}}
 
+{{< youtubeLite id="Lr8wCf1o_Y4" params="controls=1" >}}
+<br />
+{{< youtubeLite id="32SLi1Q_Dnw" params="controls=1" >}}
+<br />
+{{< youtubeLite id="LserY2gi2pQ" params="controls=1" >}}
+<br />
+{{< youtubeLite id="DV9aS6XmYgg" params="controls=1" >}}
 
 {{< gallery >}}
   <img src="gallery-09-swagatam-krishna-performance/09-P1082910.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
@@ -34,5 +45,3 @@ _**Moments from the performance**_
 
 {{< carousel images="carousel-09-swagatam-krishna-felicitation/*" aspectRatio="16-9" interval="3000" >}}
 _**Snaps of the felicitation**_
-<br />
-<br />
