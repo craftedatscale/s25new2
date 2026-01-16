@@ -40,5 +40,3 @@ _**Moments from the performance**_
 
 {{< carousel images="carousel-04-tunga-tarange-gange-felicitation/*" aspectRatio="16-9" interval="3000" >}}
 _**Snaps of the felicitation**_
-<br />
-<br />

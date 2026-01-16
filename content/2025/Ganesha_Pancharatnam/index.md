@@ -9,9 +9,17 @@ summary: "The Ganesha Pancharatnam performance at Saadhana 2025, depicting the l
 **Saadhana 2025**'s fifth performance was **Ganesh Pancharatna**.<br />
 
 Based on Lord Ganesha, this is the first piece taught to the little ones a few months after they've begun learning their steps.
-<br /> 
+<br /><br />
+{{< youtubeLite id="NUMQpvK7kHU" params="controls=1" >}}
+<br />
+{{< youtubeLite id="V_hd1StyS28" params="controls=1" >}}
+{{< alert icon="circle-icon" >}}
+_Performed by **Aashvi, Adhyanshi, Anoosha, Anvira, Arnika, Inaya, Rabaani Saanvi**, and **Veda**._
+{{< /alert >}}
 
-_Performed by **Aashvi, Adhyanshi, Anoosha, Anvira, Arnika, Inaya, Rabaani, Saanvi**, and **Veda**._
+{{< youtubeLite id="Ot_q19dt7RE" params="controls=1" >}}
+<br />
+{{< youtubeLite id="w0DRqsp9Jlk" params="controls=1" >}}
 
 {{< gallery >}}
   <img src="gallery-05-ganesha-pancharatnam-performance/05-P1072141.JPG" class="grid-w100 md:grid-w100 xl:grid-w50" />
