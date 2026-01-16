@@ -6,11 +6,18 @@ type: "groups_and_solos"
 description: "The Kavadi Murugam performance at Saadhana 2025, depicting pilgrimages by people in Tamil Nadu with a kavadi to Muruga shrines, was presented by Anantara, Anandanpillai, Gunneet, Ivanka, Kairah, Shanaya and Swanika, students of the Shreyasi Gopinath Dance Academy."
 summary: "The Kavadi Murugam performance at Saadhana 2025, depicting pilgrimages by people in Tamil Nadu with a kavadi to Muruga shrines, was presented by Anantara, Anandanpillai, Gunneet, Ivanka, Kairah, Shanaya and Swanika, students of the Shreyasi Gopinath Dance Academy."
 ---
-**Saadhana 2025** featured a presentation of **Kavadi Chinnam**, a dance where people in Tamil Nadu take the _kavadi_ and go to all the holy places of Muruga.<br />
-<br />
-This was a short excerpt that the children have learned, to encourage them and give them the experience of being on stage.
+**Saadhana 2025** featured a presentation of **Kavadi Chinnam**, a dance where people in Tamil Nadu take the _kavadi_ and go to all the holy places of Muruga. 
 
+This was a short excerpt that the children have learned, to encourage them and give them the experience of being on stage.<br />
+<br />
+{{< youtubeLite id="67BtYmYPUxY" params="controls=1" >}}
+
+{{< alert icon="circle-icon" >}}
 _Performed by **Anantara, Anandanpillai, Gunneet, Ivanka, Kairah, Shanaya** and **Swanika**._
+{{< /alert >}}
+
+{{< youtubeLite id="BY1J4O_S8Dg" params="controls=1" >}}<br />
+{{< youtubeLite id="h8HBM58_4J4" params="controls=1" >}}
 
 {{< gallery >}}
   <img src="gallery-07-kavadi-murugan-performance/07-P1082570.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
@@ -25,9 +32,6 @@ _Performed by **Anantara, Anandanpillai, Gunneet, Ivanka, Kairah, Shanaya** and 
   <img src="gallery-07-kavadi-murugan-performance/07-P1082600.JPG" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 _**Moments from the performance**_
-<br />
 
 {{< carousel images="carousel-07-kavadi-murugan-felicitation/*" aspectRatio="16-9" interval="2000" >}}
 _**Snaps of the felicitation**_
-<br />
-<br />

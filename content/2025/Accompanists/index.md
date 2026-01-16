@@ -52,7 +52,7 @@ Uma is pursuing a Ph.D. in Carnatic Music from the Faculty of Music, University 
 She regularly **assists her Guru in classes**, and also has numerous students learning under her.
 
 {{< alert icon="circle-icon" >}}
-_Follow **Uma Arun**_ _on_ [_Instagram_](https://instagram.com/uma_arun.30)
+_Follow **Uma Arun**_ _on_ [_Instagram_](https://instagram.com/uma_arun.30).
 {{< /alert >}}
 <a name="m_sridhar"></a>
 <br />
@@ -66,7 +66,7 @@ _Follow **Uma Arun**_ _on_ [_Instagram_](https://instagram.com/uma_arun.30)
 **M. Sridhar** is a recipient of SciArtservices (US) Carnatic Music Scholarship for 2021. Receiving vocal training from his **Guru Shri Delhi R. Sridhar**, he is seeking admission to the B.A. Music programme at University of Delhi’s Faculty of Fine Arts, and **has dedicated his life to music.**
 
 {{< alert icon="circle-icon" >}}
-_Follow **M. Sridhar** on_ [_Instagram_](https://instagram.com/sridhart_official) _and_ [_YouTube_](https://www.youtube.com/channel/UCR4cFnjlQa_AwdsIbuzpwMQ)
+_Follow **M. Sridhar** on_ [_Instagram_](https://instagram.com/sridhart_official) _and_ [_YouTube_](https://www.youtube.com/channel/UCR4cFnjlQa_AwdsIbuzpwMQ).
 {{< /alert >}}
 <a name="g_swaminathan"></a>
 <br />
@@ -81,5 +81,5 @@ _Follow **M. Sridhar** on_ [_Instagram_](https://instagram.com/sridhart_official
 Swaminathan has also learnt Carnatic (Vocal) under **Guru Shri. Alappuzha C. Venugopal.** He is presently pursuing an MBA from Galgotia University in Greater Noida.
 
 {{< alert icon="circle-icon" >}}
-_Follow **G. Swaminathan** on_ [_Instagram_](https://www.instagram.com/wheatish_since_2003)
+_Follow **G. Swaminathan** on_ [_Instagram_](https://www.instagram.com/wheatish_since_2003).
 {{< /alert >}}
