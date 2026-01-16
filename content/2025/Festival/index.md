@@ -8,7 +8,7 @@ invertPagination: true
 showHero: true
 heroStyle: background
 layoutBackgroundHeaderSpace: true
-layoutBackgroundBlur: false
+layoutBackgroundBlur: true
 description: "The 2025 edition of Saadhana, the signature annual event of the Shreyasi Gopinath Dance Academy, was held at India International Centre in New Delhi on 17th May 2025. It featured numerous performances by SGDA students, and two special presentations of Kathak and Chhau, by students of senior Gurus."
 summary: "The 2025 edition of Saadhana, the signature annual event of the Shreyasi Gopinath Dance Academy, was held at India International Centre in New Delhi on 17th May 2025. It featured numerous performances by SGDA students, and two special presentations of Kathak and Chhau, by students of senior Gurus. The festival received support from NTPC, IndianOil, Accessorize with Ruhnaal and the Kunwar Viyogi Memorial Trust."
 
@@ -22,9 +22,11 @@ summary: "The 2025 edition of Saadhana, the signature annual event of the Shreya
     >}}
 
 
-In 2025, the festival featured performances that showcased stories from our mythology, with oral narrative transformed using music and dance as a form of expression.
-
+In 2025, the festival featured performances that showcased stories from our mythology, with oral narrative transformed using music and dance as a form of expression.<br /><br />
+{{< youtubeLite id="mlnipza4VNk" params="controls=1" >}}
+<br />
 _**Saadhana**_, meaning a dedicated and disciplined way of learning, also means practice, hard work, resilience and single-mindedness, attributes that were incorporated in the performances.
+
 
 {{< gallery >}}
   <img src="gallery-01attendees/11-P1071631.JPG" class="grid-w50 md:grid-w50 xl:grid-w25" />
@@ -43,26 +45,28 @@ _**Moments from the evening**_
 
 
 ### Chief Guest at Saadhana 2025
-{{< figure
-    src="figure-saadhana2025-chiefguest-AnandraoVPatil.png"
-    default=true
-    nozoom=false
-    >}}
+{{< youtubeLite id="tOQXQ83AUOc" params="controls=1" >}}
+
 **Shri Anandrao V. Patil IAS (TN: 1998)** is **Additional Secretary in the Department of School Education & Literacy, Government of India.** His principal responsibilities are the Pradhan Mantri Poshan Yojana and the Digital Education Bureau. 
 
 He also steers numerous other significant initiatives at the Department of School Education & Literacy, like Manodarpan, Mental Health and Wellbeing, Rangotasav, Language Festival, Kala Utsav and Toy-based pedagogy. These portfolios are in addition to matters related to Gifted/Talented Children in the implementation of the Samagra Shiksha programme in India’s Ashthalakshmi states (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura and Sikkim).
 
 Previously, he was Joint Secretary to the Ministry of Finance in the Department of Financial Services. Shri Patil played a key role in the 2016 amending of the NPA Acts, namely SARFAESI and the RDBI Acts of the Ministry of Finance, and was on the Boards of several Public Sector Banks.
 
-Shri Patil has also served as Principal Secretary to the Hon’ble Governor of Tamil Nadu, and has been the District Collector of Sivagangai and The Nilgiris (Ooty) districts for nearly 5 years.
+Shri Patil has also served as Principal Secretary to the Hon’ble Governor of Tamil Nadu, and has been the District Collector of Sivagangai and The Nilgiris (Ooty) districts for nearly 5 years.<br /><br />
+{{< youtubeLite id="XN5V7RjObTA" params="controls=1" >}}
+<br />
+{{< youtubeLite id="B-T6GVAjLNA" params="controls=1" >}}
 {{< carousel images="carousel-01chiefguest/*" aspectRatio="16-9" interval="3000" >}}
 _**Glimpses from the Chief Guest's felicitation**_
 <br />
 <br />
 ## Guest of Honour at Saadhana 2025
+
 **IndianOil Corporation Limited** was a significant supporter of Saadhana 2025, and the event was graced by **Shri Saurabh Dutt**, Executive Director (Brand and Corporate Communications).
+{{< youtubeLite id="BBYp7xucpeY" params="controls=1" >}}
 {{< carousel images="carousel-02guestofhonour/*" aspectRatio="16-9" interval="3000" >}}
-_**Glimpses from the Chief Guest's felicitation**_
+_**Glimpses from the Guest of Honour's felicitation**_
 <br />
 <br />
 <br />
