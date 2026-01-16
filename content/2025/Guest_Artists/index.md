@@ -16,6 +16,8 @@ type: "performances"
 {{< lead >}}
 Saadhana 2025 was privileged to be graced by exceptional young guest artists who are setting the benchmark in their fields. It was a delight to witness the memorable performances they gave in the presence of their Gurus.
 {{< /lead >}}
+{{< youtubeLite id="yO5dPO6qcoE" params="start=2&end=22&controls=0" >}}
+<br />
 With their presence, we continued our tradition of inviting young artists from a senior Guru’s school, to present a different art form and showcase their talent. Such an experience enriches the audience’s immersion in dance, and expands the horizons for parents and family too. 
 {{< list cardView=false limit=2 where="Type" value="guest_artists" >}}
 
