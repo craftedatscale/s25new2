@@ -63,7 +63,7 @@ _Follow **Uma Arun**_ _on_ [_Instagram_](https://instagram.com/uma_arun.30).
     src="figure-vocals-m-sridhar.png"
     nozoom=true
     >}}
-**M. Sridhar** is a recipient of SciArtservices (US) Carnatic Music Scholarship for 2021. Receiving vocal training from his **Guru Shri Delhi R. Sridhar**, he is seeking admission to the B.A. Music programme at University of Delhi’s Faculty of Fine Arts, and **has dedicated his life to music.**
+**M. Sridhar** is a recipient of SciArtservices (US) Carnatic Music Scholarship for 2021. Receiving vocal training from his **Guru Shri Delhi R. Sridhar**, he is seeking admission to the M.A. Music programme at University of Delhi’s Faculty of Fine Arts, and **has dedicated his life to music.**
 
 {{< alert icon="circle-icon" >}}
 _Follow **M. Sridhar** on_ [_Instagram_](https://instagram.com/sridhart_official) _and_ [_YouTube_](https://www.youtube.com/channel/UCR4cFnjlQa_AwdsIbuzpwMQ).
