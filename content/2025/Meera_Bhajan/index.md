@@ -12,6 +12,8 @@ In this Bhajan, Meera exclaims:
 > **महल में ढूंढा, गिरिवन में ढूंढा**<br />
 > **ढूंढी दुनिया सारी**<br />
 
+{{< youtubeLite id="Y5RaLmKsftw" params="controls=1" >}}
+
 A broad translation of this would be: _**"Lord Krishna, I searched everywhere but I couldn't find you."**_
 
 She persists in her search, going and asking the branches - _**डाल डाल से, भूल बात से, जा पूछा गुंजन में**_ - and even the peacocks, **"_have you seen him?_"**
@@ -21,8 +23,18 @@ When they respond with a no, she is disappointed and decides to asks the herds o
 _**"I constantly pray to you and sing your praise... Oh Krishna, please come!"**_, she exclaims.
 
 That moment, when Meera is sad, upset and sitting alone, is when Krishna decides to appear besides her.
-
+{{< alert icon="circle-icon" >}}
 _Performed by **Aditi, Amaira, Ananya, Ayana, Devishi, Nayana** and **Samaira**._
+{{< /alert >}}
+
+{{< youtubeLite id="kRjAnQYt3-o" params="controls=1" >}}
+<br>
+{{< youtubeLite id="fc0jG5LaB2I" params="controls=1" >}}
+<br>
+{{< youtubeLite id="7MEZ3wGLZCE" params="controls=1" >}}
+<br>
+{{< youtubeLite id="sIVRDPnVfKM" params="controls=1" >}}
+<br>
 
 {{< gallery >}}
   <img src="gallery-11-meera-bhajan-performance/11-P1082616.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
