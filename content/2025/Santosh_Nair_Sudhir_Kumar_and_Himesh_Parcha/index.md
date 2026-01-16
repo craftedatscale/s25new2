@@ -17,12 +17,15 @@ summary: "Saadhana 2025 featured a Chhau piece, titled 'Yodha', presented by Sud
 **Saadhana 2025** continued our tradition of inviting young artists from a senior Guru's school, to present a different art form and showcase their talen. Such an experience enriches the audience's immersion in dance, and expands the horizons for parents and family too.
 
 The first presentation by guest artists this year was of **Chhau**, performed by [**Guru Santosh Nair ji**](#santosh-nair) and his students [**Sudhir Kumar**](#sudhir-kumar) and [**Himesh Parcha**](#himesh-parcha).
-
+<br />
+<br />
+{{< youtubeLite id="IB5rwXcK8dM" params="controls=0" >}}
+<br />
 From a family of artists, Guru Santosh Nair ji is trained in both traditional and contemporary dance forms. He established [**Sadhya**](https://sadhya.com), his dance company, 27 years ago. Experimental work and innovative choreography are Guru Santosh Nair's forte, and he has conducted performances, choreography, and workshops at national and international levels.
 
-The performance **_Yodha_** is a war dance of **Mayurbanj Chhau**, performed in a mood parallel to that of _Thandav Bhava_ in the _Hatiyar Dhar_ style. Saluting the spirit of courage, the dance brings forth the highly charged mood of the warrior.
+{{< youtubeLite id="F5NvlfxUT70" params="controls=0" >}}
 <br />
-<br />
+{{< youtubeLite id="NKRhVLKTKqQ" params="controls=0" >}}
 {{< gallery >}}
   <img src="gallery-chhau/01-12-P1072270.jpg" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="gallery-chhau/02-12-P1072259.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
@@ -32,6 +35,9 @@ The performance **_Yodha_** is a war dance of **Mayurbanj Chhau**, performed in 
 {{< /gallery >}}
 _**Moments from the performance**_
 
+{{< youtubeLite id="84q0t3povw8" params="controls=0" >}}
+<br />
+{{< youtubeLite id="8Iknm_rnUAM" params="controls=0" >}}
 {{< carousel images="carousel-chhau/*" aspectRatio="16-9" interval="1800" >}}
 <a id=santosh-nair></a>_**Snaps of the felicitation**_
 <br />
