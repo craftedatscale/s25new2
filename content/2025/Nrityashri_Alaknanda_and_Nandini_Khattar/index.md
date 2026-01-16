@@ -45,10 +45,9 @@ She has also been awarded with several prestigious titles, including Sringarmani
 
 Her organization, the **Alaknanda Institute for Performing Arts, Noida** [{{< icon "instagram" >}}](https://www.instagram.com/alaknandainstitute/) [{{<icon "youtube" >}}](https://www.youtube.com/@alaknandakathak975) has nurtured young artists for more than three decades.
 
-A graduate of Kathak Kendra (National Institute of Kathak), Alaknanda trained for 14 years with Smt. Reba Vidyarthi, Smt. Bharti Gupta, and
-Guru Munna Shukla. Her deep-rooted training and dedication led her to become an integral part of Pandit Birju Maharaj ji's choreographies, performing Krishna in 'Krishnayana', 'Meera', 'Holi' and many more.
+A graduate of Kathak Kendra (National Institute of Kathak), Alaknanda ji trained for 14 years with Smt. Reba Vidyarthi, Smt. Bharti Gupta, and Guru Munna Shukla. Her deep-rooted training and dedication led her to become an integral part of Pandit Birju Maharaj ji's choreographies, performing Krishna in 'Krishnayana', 'Meera', 'Holi' and many more.
 
-A cancer survivor, Alaknanda's resilience and passion for dance gave her the strength to perform 15 shows amidst 6 chemotherapy sessions, 12 of which were for the Election Commission, New Delhi, as a State Icon. Her artistic journey continues to inspire and uplift, leaving an indelible mark on the world.
+A cancer survivor, Alaknanda ji's resilience and passion for dance gave her the strength to perform 15 shows amidst 6 chemotherapy sessions, 12 of which were for the Election Commission, New Delhi, as a State Icon. Her artistic journey continues to inspire and uplift, leaving an indelible mark on the world.
 
 {{< alert icon="circle-icon" >}}
 _Follow **Nrityashri Alaknanda** on_ [_Instagram_](https://www.instagram.com/alaknandainstitute/) _and_ [_YouTube_](https://www.youtube.com/@alaknandakathak975)
@@ -63,7 +62,7 @@ _Follow **Nrityashri Alaknanda** on_ [_Instagram_](https://www.instagram.com/ala
     width=400
     >}}
 
-Nandini Khattar has been a disciple of Guru Nrityashri Alaknanda since 2011, and is a senior dance teacher at the Alaknanda Institute for Performing Arts. She has had the privilege of performing alongside her Guru on prominent international stages, in Bulgaria (2013), Poland (2015), Paris (2017), London (2018) and more.
+Nandini Khattar has been a disciple of Guru Nrityashri Alaknanda ji since 2011, and is a senior dance teacher at the Alaknanda Institute for Performing Arts. She has had the privilege of performing alongside her Guru on prominent international stages, in Bulgaria (2013), Poland (2015), Paris (2017), London (2018) and more.
 
 As a senior member of her Guru's troupe, Alaknanda Sanskriti, Nandini has performed at Delhi's premier venues. Beyond ensemble productions, she has also established herself as a solo performer.
 
