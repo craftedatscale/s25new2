@@ -52,7 +52,7 @@ Workshop at the National and International levels. His productions, like 'The Ga
 He has been awarded PHD Art & Culture Samman, Atal Behari Vajpayee Lifetime Achievement Award, and recently, the Guru Samman Award, for his invaluable contribution to the field of dance.
 
 {{< alert icon="circle-icon" >}}
-_Follow **Guru Santosh Nair** on_ [_Instagram_](https://www.instagram.com/santosh.sadhya) _and_ [_YouTube_](https://www.youtube.com/@sadhyadance), and [_visit Sadhya Dance Company_](https://sadhya.com)
+_Follow **Guru Santosh Nair** on_ [_Instagram_](https://www.instagram.com/santosh.sadhya) _and_ [_YouTube_](https://www.youtube.com/@sadhyadance), and [_visit Sadhya Dance Company_](https://sadhya.com).
 {{< /alert >}}
 <a id=sudhir-kumar></a>
 <br />
