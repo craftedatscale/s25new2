@@ -15,9 +15,9 @@ With a unique Western touch, its simple phrases make it easily understandable, m
 _Performed by **Amyra, Gaura, Naira, Naomika, Sharanya** and **Tiyasha.**_
 {{< /alert >}}
 <br />
-{{< youtubeLite id="CP0wJN3Vluo" params="controls=0" label="Nottuswaram, performed by Amyra, Gaura, Naira, Naomika, Sharanya and Tiyasha, junior students of the Shreyasi Gopinath Dance Academy" >}}
+{{< youtubeLite id="CP0wJN3Vluo" params="controls=0" label="Nottuswaram, performed by Amyra, Gaura, Naira, Naomika, Sharanya and Tiyasha, students of the Shreyasi Gopinath Dance Academy" >}}
 <br />
-{{< youtubeLite id="AZ7BLWltb7Y" params="controls=0" label="Nottuswaram, performed by Amyra, Gaura, Naira, Naomika, Sharanya and Tiyasha, junior students of the Shreyasi Gopinath Dance Academy" >}}
+{{< youtubeLite id="AZ7BLWltb7Y" params="controls=0" label="Nottuswaram, performed by Amyra, Gaura, Naira, Naomika, Sharanya and Tiyasha, students of the Shreyasi Gopinath Dance Academy" >}}
 
 {{< gallery >}}
   <img src="gallery-01-nottuswaram-performance/01-P1071697.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />

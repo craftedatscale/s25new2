@@ -8,10 +8,20 @@ summary: "The Hanuman Chalisa performance at Saadhana 2025, depicting Hanuman an
 ---
 
 **Saadhana 2025**'s second performance was **Hanuman Chalisa**, written by the great saint-poet Tulsi Das.<br />
+
+{{< youtubeLite id="uMXWpcRFHAk" params="controls=0" label="Hanuman Chalisa, performed by Avisha, Meera, Miri and Radhika, students of Shreyasi Gopinath Dance Academy" >}}
 <br />
 The children depicted three verses from it, in praise of Hanuman, who is strong and always devoted to Lord Rama.
 
-_Performend by **Avisha, Meera, Miri** and **Radhika**_.<br />
+{{< alert icon="circle-icon" >}}
+_Performend by **Avisha, Meera, Miri** and **Radhika**_.
+{{< /alert >}}
+
+{{< youtubeLite id="rCvY13g8KpQ" params="controls=0" label="Hanuman Chalisa, performed by Avisha, Meera, Miri and Radhika, students of Shreyasi Gopinath Dance Academy" >}}
+<br />
+{{< youtubeLite id="BPReuLABqbA" params="controls=0" label="Hanuman Chalisa, performed by Avisha, Meera, Miri and Radhika, students of Shreyasi Gopinath Dance Academy" >}}
+<br />
+{{< youtubeLite id="cQITIIFQTHI" params="controls=0" label="Hanuman Chalisa, performed by Avisha, Meera, Miri and Radhika, students of Shreyasi Gopinath Dance Academy" >}}
 <br />
 {{< gallery >}}
   <img src="gallery-02-hanuman-chalisa-performance/02-P1071746.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
