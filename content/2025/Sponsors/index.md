@@ -22,6 +22,8 @@ In 2025, Shreyasi Gopinath Dance Academy was delighted and grateful for support 
 <br />
 
 ### Glimpses from our Esteemed Sponsors' felicitation
+{{< youtubeLite id="BBYp7xucpeY" params="controls=0" label="Shri Saurabh Dutt, Executive Director, Brand and Corporate Communications, IndianOil Corporation" >}}
+
 {{< gallery >}}
   <img src="gallery-02sponsors-glimpses/02-10-P1071678.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="gallery-02sponsors-glimpses/01-10-P1071669.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
@@ -44,3 +46,4 @@ It is said that no support — especially from an organization — must be taken
   <img src="gallery-02sponsors-placement/03-11-P1071562.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
   <img src="gallery-02sponsors-placement/04-10-P1071564.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
 {{< /gallery >}}
+{{< youtubeLite id="k0lTCtyffQ0" params="controls=0" >}}
