@@ -50,7 +50,7 @@ A graduate of Kathak Kendra (National Institute of Kathak), Alaknanda ji trained
 A cancer survivor, Alaknanda ji's resilience and passion for dance gave her the strength to perform 15 shows amidst 6 chemotherapy sessions, 12 of which were for the Election Commission, New Delhi, as a State Icon. Her artistic journey continues to inspire and uplift, leaving an indelible mark on the world.
 
 {{< alert icon="circle-icon" >}}
-_Follow **Guru Nrityashri Alaknanda** on_ [_Instagram_](https://www.instagram.com/alaknandainstitute/) _and_ [_YouTube_](https://www.youtube.com/@alaknandakathak975)
+_Follow **Guru Nrityashri Alaknanda** on_ [_Instagram_](https://www.instagram.com/alaknandainstitute/) _and_ [_YouTube_](https://www.youtube.com/@alaknandakathak975).
 {{< /alert >}}
 <a id="nandini-khattar"></a><br />
 <br />
@@ -69,5 +69,5 @@ As a senior member of her Guru's troupe, Alaknanda Sanskriti, Nandini has perfor
 Nandini credits her Bachelor's degree in Applied Psychology with enriching her understanding of the expressive aspects of dance.
 
 {{< alert icon="circle-icon" >}}
-_Follow **Nandini Khattar** on_ [_Instagram_](https://www.instagram.com/nandini_khattar)
+_Follow **Nandini Khattar** on_ [_Instagram_](https://www.instagram.com/nandini_khattar).
 {{< /alert >}}
