@@ -3,8 +3,8 @@ title: "Meera Bhajan"
 date: 2025-05-22
 weight: 59
 type: "groups_and_solos"
-description: ""
-summary: ""
+description: "The Meera Bhajan performance at Saadhana 2025, depicting a moment when Meera is sad, upset and sitting alone, and Krishna decides to appear besides her, was presented by Aditi, Amaira, Ananya, Ayana, Devishi, Nayana and Samaira, students of the Shreyasi Gopinath Dance Academy."
+summary: "The Meera Bhajan performance at Saadhana 2025, depicting a moment when Meera is sad, upset and sitting alone, and Krishna decides to appear besides her, was presented by Aditi, Amaira, Ananya, Ayana, Devishi, Nayana and Samaira, students of the Shreyasi Gopinath Dance Academy."
 ---
 
 In this Bhajan, Meera exclaims:

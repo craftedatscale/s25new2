@@ -3,8 +3,8 @@ title: "Thillana"
 date: 2025-05-22
 weight: 58
 type: "groups_and_solos"
-description: ""
-summary: ""
+description: "The Thillana at Saadhana 2025, depicting various pieces on Krishna, was presented by Aatmika, Athira, Mithuna, Sarada, Sunayna and Vidushi, students of the Shreyasi Gopinath Dance Academy."
+summary: "The Thillana at Saadhana 2025, depicting various pieces on Krishna, was presented by Aatmika, Athira, Mithuna, Sarada, Sunayna and Vidushi, students of the Shreyasi Gopinath Dance Academy."
 ---
 The **Thillana** is usually the finale in a Bharatanatyam repertoire. Being very fond of Krishna, we chose numerous pieces on him for Saadhana 2025, and this meant the sequencing of performances required some adaptation. Beyond our affection for Krishna, we find that our students, children or older, seem to instictively understand his लीलाs easily.<br />
 
