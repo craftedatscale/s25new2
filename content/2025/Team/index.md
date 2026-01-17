@@ -34,10 +34,9 @@ Saadhana 2025 was our biggest festival yet, and bringing it to life meant an imm
 
 ### Media
 **Photography**: Mr. Naresh Gulati, Mr. Innee Singh and Mr. Rahul Nag<br />
-**Videography**: Mr. Lakshman<br />
+**Videography**: Mr. K. Lakshmanan<br />
 **Collaterals**: Mr. Sanjeev Hasija<br />
-**Web**: Scale Research Consulting LLP<br />
-**Framework**: [Blowfish](https://blowfish.page)
+**Web**: Scale Research Consulting LLP, with [Blowfish](https://blowfish.page)
 
 ### Volunteers
 **Ushers**: Aparna, Nikhil, Nitin, Payal, Saumya and Shikha<br />
