@@ -57,7 +57,7 @@ Workshop at the National and International levels. His productions, like 'The Ga
 
 He has been awarded PHD Art & Culture Samman, Atal Behari Vajpayee Lifetime Achievement Award, and recently, the Guru Samman Award, for his invaluable contribution to the field of dance.
 
-{{< alert icon="circle-icon" >}}
+{{< alert icon="link" >}}
 _Follow **Guru Santosh Nair** on_ [_Instagram_](https://www.instagram.com/santosh.sadhya) _and_ [_YouTube_](https://www.youtube.com/@sadhyadance), and [_visit Sadhya Dance Company_](https://sadhya.com).
 {{< /alert >}}
 <a id=sudhir-kumar></a>
@@ -76,7 +76,7 @@ He has performed in numerous Sadhya productions, like 'The Game of Dice', 'Unbou
 
 Apart from assisting in the choreography of numerous Sadhya productions, **he has choreographed dance pieces himself**, in the Mayurbhanj Chhau and Contemporary Dance styles.
 
-{{< alert icon="circle-icon" >}}
+{{< alert icon="link" >}}
 _Follow **Sudhir Kumar** on_ [_Instagram_](https://www.instagram.com/sudheer.kumar174) _and_ [_Facebook_](ttps://www.facebook.com/sudheer.kumar.5011516).
 {{< /alert >}}<a id=himesh-parcha></a>
 <br />
@@ -92,6 +92,6 @@ _Follow **Sudhir Kumar** on_ [_Instagram_](https://www.instagram.com/sudheer.kum
 
 He has performed in numerous Sadhya productions, like 'The Game of Dice', 'Unbounded', and 'The Mystical Forest', at events like the South Asian Rotary Summit, World Dance Day (2013-19), the Festival of India in Budapest, and for the Centenary Celebration of Amala Shankar in Kolkata. In 2019, under the aegis of ICCR, he performed in Vietnam and Philippines with Sadhya.
 
-{{< alert icon="circle-icon" >}}
+{{< alert icon="links" >}}
 _Follow **Himesh Parcha** on_ [_Instagram_](https://www.instagram.com/himesh.parcha) _and_ [_Facebook_](ttps://www.facebook.com/himesh.parcha).
 {{< /alert >}}

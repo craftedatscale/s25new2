@@ -12,7 +12,7 @@ The piece depicts various stories from Krishna's life, including the story of Ka
 <br />
 <br />
 {{< youtubeLite id="JODKvRvQzdo" params="controls=1" >}}
-{{< alert icon="circle-icon" >}}
+{{< alert icon="graduation-cap" >}}
 _Performed by **Amaira, Anandita, Ishika, Jaysha, Mananya, Noor, Saanvi, Shoumili** and **Sirisha**._
 {{< /alert >}}
 

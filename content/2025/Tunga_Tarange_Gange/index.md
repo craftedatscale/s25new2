@@ -11,7 +11,7 @@ summary: "The Tunga Tarange Gange performance at Saadhana 2025, depicting Bhagir
 The piece praises Ganga, and in it the river sings about how Bhagiratha implored her to come to earth, and how Shiva requested Ganga to cease destruction. The piece also focused on the importance of water and the necessity of saving it.<br /><br />
 {{< youtubeLite id="lq27LI3naUw" params="controls=1" >}}
 
-{{< alert icon="circle-icon" >}}
+{{< alert icon="graduation-cap" >}}
 _Performed by **Ishana, Neha**, and **Nidhi**._
 {{< /alert >}}
 

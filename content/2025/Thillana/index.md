@@ -14,7 +14,7 @@ In this piece, the devotee says, **"Padmanabha, oh Lord Padmanabha, oh my belove
 
 Composed by Maharaja Sri Swathi Thirunal Rama Varma III of Travancore, it is ordered through rhythmic movements, and features minimal expressions.
 
-{{< alert icon="circle-icon" >}}
+{{< alert icon="graduation-cap" >}}
 _Performed by **Aatmika, Athira, Mithuna, Sarada, Sunayna** and **Vidushi**._
 {{< /alert >}}
 

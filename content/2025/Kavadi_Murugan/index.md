@@ -12,7 +12,7 @@ This was a short excerpt that the children have learned, to encourage them and g
 <br />
 {{< youtubeLite id="67BtYmYPUxY" params="controls=1" >}}
 
-{{< alert icon="circle-icon" >}}
+{{< alert icon="graduation-cap" >}}
 _Performed by **Anantara, Anandanpillai, Gunneet, Ivanka, Kairah, Shanaya** and **Swanika**._
 {{< /alert >}}
 

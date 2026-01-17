@@ -17,7 +17,7 @@ summary: "The Varnam performance at Saadhana 2025, depicting an excerpt from one
 An excerpt from one of the central pieces in a Bharatanatyam recital, in this piece the heroine is craving attention from Lord Vishnu. The piece describes her emotions and feelings.<br />
 <br />
 {{< youtubeLite id="4uz_4kUN4EY" params="controls=1" >}}
-{{< alert icon="circle-icon" >}}
+{{< alert icon="graduation-cap" >}}
 _Performed by **Meenakshi Sud Dutt**, a working professional who resumed her dance education after a multi-decade gap._
 {{< /alert >}}
 <br />

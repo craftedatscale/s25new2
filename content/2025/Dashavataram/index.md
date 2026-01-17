@@ -10,7 +10,7 @@ summary: "The Dashavataram performance at Saadhana 2025, depicting the ten incar
 **Saadhana 2025**'s sixth presentation was the **Dashavataram**, which depicts the ten incarnations of Lord Vishnu.<br />
 <br />
 {{< youtubeLite id="c54rYyicrNM" params="controls=1" >}}
-{{< alert icon="circle-icon" >}}
+{{< alert icon="graduation-cap" >}}
 _Performed by **Avani, Avyana, Khushmita, Maarvi, Meera, Namya, Nihika, Prisha, Riddha, Saisha** and **Sanvi**_.
 {{< /alert >}}
 <br />

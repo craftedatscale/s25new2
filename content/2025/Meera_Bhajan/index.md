@@ -23,7 +23,7 @@ When they respond with a no, she is disappointed and decides to asks the herds o
 _**"I constantly pray to you and sing your praise... Oh Krishna, please come!"**_, she exclaims.
 
 That moment, when Meera is sad, upset and sitting alone, is when Krishna decides to appear besides her.
-{{< alert icon="circle-icon" >}}
+{{< alert icon="graduation-caps" >}}
 _Performed by **Aditi, Amaira, Ananya, Ayana, Devishi, Nayana** and **Samaira**._
 {{< /alert >}}
 

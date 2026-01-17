@@ -13,7 +13,7 @@ summary: "The Hanuman Chalisa performance at Saadhana 2025, depicting Hanuman an
 <br />
 The children depicted three verses from it, in praise of Hanuman, who is strong and always devoted to Lord Rama.
 
-{{< alert icon="circle-icon" >}}
+{{< alert icon="graduation-cap" >}}
 _Performed by **Avisha, Meera, Miri** and **Radhika**_.
 {{< /alert >}}
 

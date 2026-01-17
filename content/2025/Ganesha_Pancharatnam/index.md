@@ -13,7 +13,7 @@ Based on Lord Ganesha, this is the first piece taught to the little ones a few m
 {{< youtubeLite id="NUMQpvK7kHU" params="controls=1" >}}
 <br />
 {{< youtubeLite id="V_hd1StyS28" params="controls=1" >}}
-{{< alert icon="circle-icon" >}}
+{{< alert icon="graduation-cap" >}}
 _Performed by **Aashvi, Adhyanshi, Anoosha, Anvira, Arnika, Inaya, Rabaani Saanvi**, and **Veda**._
 {{< /alert >}}
 

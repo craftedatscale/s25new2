@@ -10,7 +10,7 @@ summary: "The Pushpanjali performance at Saadhana 2025, meaning an offering of f
 <br /><br />
 {{< youtubeLite id="c1z5zMAlngc" params="controls=1" >}}
 
-{{< alert icon="circle-icon" >}}
+{{< alert icon="graduation-cap" >}}
 _Performed by **Abhirami, Radhika, Riya, Ruhbani, Tushti** and **Vidhi**._
 {{< /alert >}}
 <br />
