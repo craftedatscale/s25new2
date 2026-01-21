@@ -23,6 +23,8 @@ _Performed by **Amaira, Anandita, Ishika, Jaysha, Mananya, Noor, Saanvi, Shoumil
 {{< youtubeLite id="LserY2gi2pQ" params="controls=1" >}}
 <br />
 {{< youtubeLite id="DV9aS6XmYgg" params="controls=1" >}}
+<br />
+{{< youtubeLite id="oAzIb7GtILI" params="controls=1" >}}
 
 {{< gallery >}}
   <img src="gallery-09-swagatam-krishna-performance/09-P1082910.JPG" class="grid-w50 md:grid-w33 xl:grid-w50" />
