@@ -92,6 +92,6 @@ _Follow **Sudhir Kumar** on_ [_Instagram_](https://www.instagram.com/sudheer.kum
 
 He has performed in numerous Sadhya productions, like 'The Game of Dice', 'Unbounded', and 'The Mystical Forest', at events like the South Asian Rotary Summit, World Dance Day (2013-19), the Festival of India in Budapest, and for the Centenary Celebration of Amala Shankar in Kolkata. In 2019, under the aegis of ICCR, he performed in Vietnam and Philippines with Sadhya.
 
-{{< alert icon="links" >}}
+{{< alert icon="link" >}}
 _Follow **Himesh Parcha** on_ [_Instagram_](https://www.instagram.com/himesh.parcha) _and_ [_Facebook_](ttps://www.facebook.com/himesh.parcha).
 {{< /alert >}}
