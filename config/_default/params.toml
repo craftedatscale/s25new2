@@ -146,7 +146,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
+  websiteid = "4d6bbeb0-2788-4868-99ca-69dbeae4ac71"
   # domain = "llama.yoursite.com"
   # dataDomains = "yoursite.com,yoursite2.com"
   # scriptName = ""
