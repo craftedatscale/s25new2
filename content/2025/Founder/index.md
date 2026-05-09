@@ -19,7 +19,7 @@ layoutBackgroundBlur: true
 
 > ### "My dance career is marked by growth, exploring and pushing boundaries, and sharing the joy of dance with people from all walks of life."
 
-## In 2023, during Indian Prime Minister Shri Narendra Modi ji's visit to Paris for the Bastille Day Parade, Shreyasi was invited to perform the opening dance recital in his honour.
+## In 2023, during Hon'ble Prime Minister Shri Narendra Modi's visit to Paris for the Bastille Day Parade, Shreyasi was invited to perform the opening dance recital in his honour.
 
 Shreyasi began her formal training at **age 7** with late **Guru Dr. Saroja Vaidyanathan, Padmabhushan** Awardee. After earning her Post Graduate diploma from Kalakshetra Foundation, Chennai, Shreyasi moved to Delhi, where she continued her learning under late **Guru Jamuna Krishnan** and **Guru Dr. G. Ratheesh Babu**.
 
