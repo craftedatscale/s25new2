@@ -71,5 +71,5 @@ _**Glimpses from the Guest of Honour's felicitation**_
 <br />
 <br />
 {{< alert icon="expand" >}}
-[**_Click here to learn more about Saadhana 2024_**](https://saadhana2024.sgda.in)
+[**_Click here to learn more about Saadhana 2024_**](https://saadhana.sgda.in/2024)
 {{< /alert >}}
