@@ -12,7 +12,7 @@ layoutBackgroundHeaderSpace: true
 layoutBackgroundBlur: false
 
 ---
-Now in its third edition, Saadhana is the signature annual event of the Shreyasi Gopinath Dance Academy. 
+## Now in its third edition, Saadhana is the signature annual event of the Shreyasi Gopinath Dance Academy. 
 
 The festival, held on 18th May, 2024, at New Delhi's India International Centre, featured performances that showcased stories from our mythology, with oral narrative transformed using music and dance as a form of expression.
 
