@@ -29,7 +29,7 @@
 [[main]]
   name = "2024"
   parent = "Festival"
-  url = "https://saadhana2024.sgda.in"
+  url = "/2024/"
   weight = 2
 
 [[main]]
