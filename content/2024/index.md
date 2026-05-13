@@ -12,11 +12,9 @@ layoutBackgroundHeaderSpace: true
 layoutBackgroundBlur: false
 
 ---
-## Now in its third edition, Saadhana is the signature annual event of the Shreyasi Gopinath Dance Academy. 
+## Now in its third edition, _Saadhana_ is the signature annual event of the Shreyasi Gopinath Dance Academy. 
 
-The festival, held on 18th May, 2024, at New Delhi's India International Centre, featured performances that showcased stories from our mythology, with oral narrative transformed using music and dance as a form of expression.
-
-Saadhana, meaning a dedicated and disciplined way of learning, also means practice, hard work, resilience and single-mindedness, attributes incorporated in the performances.
+The festival, held on **18th May, 2024**, at **New Delhi's India International Centre**, featured performances that showcased stories from our mythology, with oral narrative transformed using music and dance as a form of expression.
 
 {{< gallery >}}
     <img src="gallery-2024/02-DSC_5986.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
@@ -47,7 +45,7 @@ Saadhana, meaning a dedicated and disciplined way of learning, also means practi
 
 
 ## Sponsors
-The festival was blessed to receive support from:
+**The festival was blessed to receive support from:**
 {{< gallery >}}
     <img src="sponsors-2024/2024-sp-01-ntpc.jpg" class="grid-w50 md:grid-w33 xl:grid-w33" />
     <img src="sponsors-2024/2024-sp-02-kumaran-silks.jpg" class="grid-w50 md:grid-w33 xl:grid-w33" />
